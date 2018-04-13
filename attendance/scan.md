@@ -1,23 +1,29 @@
 # Scan
 
-## Getting Super Powers
+##### Criteria
+| Field | Definition |
+|-------|------| 
+| Category | Definition |
+| Display | Definition |
+| End Date | Definition |
+| Event | Definition |
+| Picked Up | Definition |
+| Start Date | Definition |
+| Ticket Type | Definition |
+| User Type | Definition |
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+##### Results
+| Column | Definition |
+|-------|------| 
+| Email | Definition |
+| Event | Definition |
+| First Name | Definition |
+| Last Name | Definition |
+| Picked Up | Definition |
+| Record Locator | Definition |
+| Scan Time | Definition |
+| Scan Type | Definition |
+| Ticket Number | Definition |
+| Ticket Option | Definition |
+| Ticket Type | Definition |
+| User Type | Definition |
