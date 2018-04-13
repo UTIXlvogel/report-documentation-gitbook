@@ -1,23 +1,9 @@
 # Classic vs UTIX Differences
 
-## Getting Super Powers
+Below are the differences in reports between UniversityTickets’ Classic system and UniversityTickets’ modern UTIX platform.
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+1. “Net Sales” data can now be found in the following simplified reports depending on the data you are looking for:
+	- “Reconciliation”
+	- “Revenue”
+	- “UTIX Fees” 
+2. “Coupon Redemption Summary” is now called “Discount Code Redemption”.
