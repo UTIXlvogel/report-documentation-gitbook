@@ -1,8 +1,9 @@
 # Reservation List
 
-##### Criteria
-| Field | Definition |
-|-------|------| 
+## Criteria
+
+| **Field** | **Definition** |
+| --- | --- |
 | Attributes | Definition |
 | Category | Definition |
 | Display | Definition |
@@ -15,9 +16,10 @@
 | Ticket Type | Definition |
 | User Type | Definition |
 
-##### Results
-| Column | Definition |
-|-------|------| 
+## Results
+
+| **Column** | **Definition** |
+| --- | --- |
 | City | Definition |
 | Customer Info | Definition |
 | Email | Definition |
@@ -41,3 +43,4 @@
 | Ticket Option | Definition |
 | Ticket Type | Definition |
 | User Type | Definition |
+
