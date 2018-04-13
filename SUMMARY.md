@@ -31,5 +31,5 @@
 * [Sales by Level and Section](finance/sales-by-level-and-section.md)
 * [Sales by Price](finance/sales-by-price.md)
 * [UTIX Fees](finance/utix-fees.md)
-* \[Event Performance\]\[23\]
+* [Event Performance](finance/event-performance-23.md)
 
