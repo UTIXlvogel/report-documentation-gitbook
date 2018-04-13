@@ -1,13 +1,43 @@
 # Reservation List
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### Criteria
+| Field | Definition |
+|-------|------| 
+| Attributes | Definition |
+| Category | Definition |
+| Display | Definition |
+| End Date | Definition |
+| Event | Definition |
+| Package | Definition |
+| Sale Location | Definition |
+| Sales Channel | Definition |
+| Start Date | Definition |
+| Ticket Type | Definition |
+| User Type | Definition |
 
-| Criteria | Definition |
-| --- | --- | --- |
-| Category | A brief description of a category |
-| Display | A brief description of a display |
-
-
-
-
-
+##### Results
+| Column | Definition |
+|-------|------| 
+| City | Definition |
+| Customer Info | Definition |
+| Email | Definition |
+| Event Date/Time | Definition |
+| Event Name | Definition |
+| External ID | Definition |
+| First Name | Definition |
+| Last Modified | Definition |
+| Last Name | Definition |
+| Mailing Address | Definition |
+| Order Notes | Definition |
+| Package Name | Definition |
+| Phone | Definition |
+| Postal Code | Definition |
+| Purchase Date | Definition |
+| Record Locator | Definition |
+| Sale Location | Definition |
+| Seats | Definition |
+| State | Definition |
+| Ticket Number | Definition |
+| Ticket Option | Definition |
+| Ticket Type | Definition |
+| User Type | Definition |
