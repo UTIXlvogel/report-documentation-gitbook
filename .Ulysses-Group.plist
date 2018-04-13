@@ -3,11 +3,76 @@
 <plist version="1.0">
 <dict>
 	<key>childOrder</key>
-	<array/>
+	<array>
+		<string>appendix</string>
+		<string>reference</string>
+		<string>attendance</string>
+		<string>finance</string>
+		<string>scan</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
-		<dict/>
+		<dict>
+			<key>appendix</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>545334787.50796294</real>
+				<key>lastModification</key>
+				<real>545335262.97618794</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>attendance</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335262.97618794</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>finance</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335276.29375803</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>reference</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335262.97618604</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>scan</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>545335311.16383803</real>
+				<key>lastModification</key>
+				<real>545335311.16383803</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict/>
 	</dict>
@@ -20,7 +85,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-			<integer>1</integer>
+			<integer>6</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

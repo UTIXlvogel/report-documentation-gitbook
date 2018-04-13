@@ -1,7 +1,7 @@
 # Scan
 
 ##### Criteria
-| Field | Definition |
+| **Field** | **Definition** |
 |-------|------| 
 | Category | Definition |
 | Display | Definition |
@@ -13,7 +13,7 @@
 | User Type | Definition |
 
 ##### Results
-| Column | Definition |
+| **Column** | **Definition** |
 |-------|------| 
 | Email | Definition |
 | Event | Definition |

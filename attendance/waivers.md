@@ -1,23 +1,23 @@
 # Waivers
 
-## Getting Super Powers
+##### Criteria
+| **Field** | **Definition** |
+|-------|------| 
+| Category | Definition |
+| End Date | Definition |
+| Event | Definition |
+| Sales Channel | Definition |
+| Start Date | Definition |
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+##### Results
+| **Column** | **Definition** |
+|-------|------| 
+| Electronic Signature | Definition |
+| Email | Definition |
+| Event Name | Definition |
+| First Name | Definition |
+| Last Name | Definition |
+| Record Locator | Definition |
+| User IP | Definition |
+| Waiver Date | Definition |
+| Waiver Name | Definition |

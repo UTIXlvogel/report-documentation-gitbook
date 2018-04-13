@@ -6,9 +6,13 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict/>
+		<key>sheetOrder</key>
+		<real>545335170.36668801</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array/>
+	<key>sheetOrder</key>
+	<string>manual</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -16,7 +20,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-			<integer>12</integer>
+			<integer>2</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>

@@ -1,23 +1,25 @@
 # Seating Assignments
 
-## Getting Super Powers
+##### Criteria
+| **Field** | **Definition** |
+|-------|------| 
+| Category | Definition |
+| Event | Definition |
+| Option | Definition |
+| Section | Definition |
+| Switch to Text View | Definition |
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+##### Results
+| **Column** | **Definition** |
+|-------|------| 
+| Venue Section & Status seat icons | Definition |
+| Customer | Definition |
+| Date/Time | Definition |
+| Level | Definition |
+| Price | Definition |
+| RL | Definition |
+| Row | Definition |
+| Seat | Definition |
+| Section | Definition |
+| Status | Definition |
+| User Type | Definition |

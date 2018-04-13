@@ -1,23 +1,20 @@
 # Show Rate
 
-## Getting Super Powers
+##### Criteria
+| **Field** | **Definition** |
+|-------|------| 
+| Category | Definition |
+| Event | Definition |
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+##### Results
+| **Column** | **Definition** |
+|-------|------| 
+| Available Seats | Definition |
+| Category Name | Definition |
+| Event Name | Definition |
+| Reservations | Definition |
+| Scan Count | Definition |
+| Scan Rate (%) | Definition |
+| Sell Rate (%) | Definition |
+| Ticket Option | Definition |
+| Ticket Type | Definition |

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>by-criteria.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335325.25602102</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>by-results.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335325.25602198</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>classic-vs-utix-differences.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545335325.25602305</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>by-criteria.md</string>
+		</array>
+		<array>
+			<string>by-results.md</string>
+		</array>
+		<array>
+			<string>classic-vs-utix-differences.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
