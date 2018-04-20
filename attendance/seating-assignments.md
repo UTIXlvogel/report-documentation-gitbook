@@ -1,3 +1,10 @@
+---
+description: >-
+  Events using an Assigned Seating Venue, provides ability to select a section
+  to see what seats have been Reserved and what seats are still available.
+  Switch to Text View to view as a list or Export
+---
+
 # Seating Assignments
 
 ## Criteria
