@@ -1,3 +1,9 @@
+---
+description: >-
+  A list of the Category and Events with the Ticket Options, Available Seats,
+  Ticket Type, Reservations, Sell Rate %, Scan Count, and Scan Rate %
+---
+
 # Show Rate
 
 ## Criteria
