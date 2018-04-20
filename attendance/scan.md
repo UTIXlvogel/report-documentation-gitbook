@@ -1,10 +1,3 @@
----
-description: >-
-  Displays the details of a ticket scanned for an event. Scan Type defines Entry
-  or Temporary Exit, including Date and Time. Display drop-down includes
-  Detailed Data: Scanned, Unscanned, or Summary Data
----
-
 # Scan
 
 ## Criteria
