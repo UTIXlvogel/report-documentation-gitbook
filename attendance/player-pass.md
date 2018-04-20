@@ -1,16 +1,18 @@
 # Player Pass
 
-##### Criteria
+## Criteria
+
 | **Field** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Category | Definition |
 | End Date | Definition |
 | Event | Definition |
-| Start Date  | Definition |
+| Start Date | Definition |
 
-##### Results
+## Results
+
 | **Column** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Category | Definition |
 | Date Requested | Definition |
 | Event | Definition |
@@ -19,3 +21,4 @@
 | Relationship | Definition |
 | Requester | Definition |
 | Signature | Definition |
+

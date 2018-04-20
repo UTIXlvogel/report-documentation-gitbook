@@ -1,17 +1,19 @@
 # Seating Assignments
 
-##### Criteria
+## Criteria
+
 | **Field** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Category | Definition |
 | Event | Definition |
 | Option | Definition |
 | Section | Definition |
 | Switch to Text View | Definition |
 
-##### Results
+## Results
+
 | **Column** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Venue Section & Status seat icons | Definition |
 | Customer | Definition |
 | Date/Time | Definition |
@@ -23,3 +25,4 @@
 | Section | Definition |
 | Status | Definition |
 | User Type | Definition |
+

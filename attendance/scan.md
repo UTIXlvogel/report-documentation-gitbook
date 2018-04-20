@@ -1,8 +1,9 @@
 # Scan
 
-##### Criteria
+## Criteria
+
 | **Field** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Category | Definition |
 | Display | Definition |
 | End Date | Definition |
@@ -12,9 +13,10 @@
 | Ticket Type | Definition |
 | User Type | Definition |
 
-##### Results
+## Results
+
 | **Column** | **Definition** |
-|-------|------| 
+| --- | --- |
 | Email | Definition |
 | Event | Definition |
 | First Name | Definition |
@@ -27,3 +29,4 @@
 | Ticket Option | Definition |
 | Ticket Type | Definition |
 | User Type | Definition |
+

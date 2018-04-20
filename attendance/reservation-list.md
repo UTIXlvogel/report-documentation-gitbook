@@ -1,3 +1,10 @@
+---
+description: >-
+  Provides you the list and details for everyone that has purchased tickets for
+  a specific Event(s) or Package - Use the Display drop-down to add Custom Field
+  Responses or Include Financials
+---
+
 # Reservation List
 
 ## Criteria
