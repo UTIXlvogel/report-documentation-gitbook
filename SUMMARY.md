@@ -33,3 +33,7 @@
 * [UTIX Fees](finance/utix-fees.md)
 * [Event Performance](finance/event-performance.md)
 
+## Fundraising
+
+* Donations
+
