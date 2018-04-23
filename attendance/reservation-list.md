@@ -13,7 +13,7 @@ description: >-
 | --- | --- |
 | **Attributes** | User Attributes are tags assigned to an individual customer’s profile either \(a\) manually by an administrator or \(b\) automatically when the user purchases an event. These attributes can then be reported on and will also show during the Point of Sale process. |
 | **Category** | Category the event is listed within. |
-| **Display** | Ability to select desired data from |
+| **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Package** | Single or subscriber. |
