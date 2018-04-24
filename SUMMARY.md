@@ -35,7 +35,7 @@
 
 ## Fundraising
 
-* Donations
+* [Donations](fundraising/donations.md)
 * [Donations with Custom Fields](fundraising/donations-with-custom-fields.md)
 * [Ticketing Benefits](fundraising/ticketing-benefits.md)
 * [User Attributes](fundraising/user-attributes.md)
@@ -66,7 +66,7 @@
 
 * [Active Event List](ticketing/active-event-list.md)
 * [Held Tickets](ticketing/held-tickets.md)
-* Pass Assignment
+* [Pass Assignment](ticketing/pass-assignment.md)
 * [Ticket Inventory](ticketing/ticket-inventory.md)
 * [Tickets to be Picked Up/Mailed](ticketing/tickets-to-be-picked-up-mailed.md)
 * [Return/Exchange History](ticketing/return-exchange-history.md)
