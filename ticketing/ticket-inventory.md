@@ -1,23 +1,22 @@
 # Ticket Inventory
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Category** | Definition |
+| **Event** | Definition |
+| **Show Archived Data** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **% Remaining** | Definition |
+| **% Reserved** | Definition |
+| **Date** | Definition |
+| **Event Name** | Definition |
+| **Qty Remaining** | Definition |
+| **Qty Reserved** | Definition |
+| **Ticket Option** | Definition |
+| **Total Available** | Definition |

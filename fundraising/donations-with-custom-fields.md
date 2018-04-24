@@ -1,23 +1,43 @@
 # Donations with Custom Fields
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Attributes** | Definition |
+| **Campaigns** | Definition |
+| **End Date** | Definition |
+| **Sales Channel** | Definition |
+| **Sales Location** | Definition |
+| **Show Archived Data** | Definition |
+| **Start Date** | Definition |
+| **Ticket Type** | Definition |
+| **User Type** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **Account Number** | Definition |
+| **Amount Donated** | Definition |
+| **Campaigns** | Definition |
+| **City** | Definition |
+| **Customer Info** | Definition |
+| **Email** | Definition |
+| **Event Date/Time** | Definition |
+| **External ID** | Definition |
+| **First Name** | Definition |
+| **Last Modified By** | Definition |
+| **Last Name** | Definition |
+| **Mailing Address** | Definition |
+| **Option** | Definition |
+| **Order Notes** | Definition |
+| **Postal Code** | Definition |
+| **Purchase Date** | Definition |
+| **Record Locator** | Definition |
+| **Sales Location** | Definition |
+| **Seats** | Definition |
+| **State** | Definition |
+| **Ticket Number** | Definition |
+| **Ticket Type** | Definition |
+| **User Type** | Definition |

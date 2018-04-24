@@ -1,23 +1,27 @@
 # Rollover Completion
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Order Status** | Definition |
+| **Rollovers** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **Address (Shipping)** | Definition |
+| **Address #2 (Shipping)** | Definition |
+| **City (Shipping)** | Definition |
+| **Date Created** | Definition |
+| **E-mail/Login** | Definition |
+| **First Name (Billing)** | Definition |
+| **First Name (Shipping)** | Definition |
+| **Last Name (Billing)** | Definition |
+| **Last Name (Shipping)** | Definition |
+| **Opt In** | Definition |
+| **Phone** | Definition |
+| **Postal Code (Shipping)** | Definition |
+| **State (Shipping)** | Definition |
+| **User Type** | Definition |

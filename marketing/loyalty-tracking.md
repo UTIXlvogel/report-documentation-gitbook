@@ -1,23 +1,25 @@
 # Loyalty Tracking
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Category** | Definition |
+| **Display** | Definition |
+| **End Date** | Definition |
+| **Event** | Definition |
+| Package | Definition |
+| Show Archived Data | Definition |
+| **Start Date** | Definition |
+| Ticket State | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| E-mail | Definition |
+| **First Name** | Definition |
+| **Last Name** | Definition |
+| Loyalty Points | Definition |
+| Rank | Definition |
+| User Type | Definition |

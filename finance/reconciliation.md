@@ -1,23 +1,23 @@
 # Reconciliation
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Category** | Definition |
+| **Display** | Definition |
+| **End Date** | Definition |
+| **Event** | Definition |
+| **Include Order Charges** | Definition |
+| **Package** | Definition |
+| **Payment Method** | Definition |
+| **Sales Channel** | Definition |
+| **Start Date** | Definition |
+| **Show Account Number in Totals by Payment Method** | Definition |
+| **Show Archived Data** | Definition |
+| **Show Payment Method in Totals by Item** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |

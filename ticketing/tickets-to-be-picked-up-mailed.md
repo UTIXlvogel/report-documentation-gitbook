@@ -1,23 +1,34 @@
 # Tickets to be Picked Up/Mailed
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Category** | Definition |
+| **Delivery Option** | Definition |
+| **End Date** | Definition |
+| **Event** | Definition |
+| **Picked Up** | Definition |
+| **Show Archived Data** | Definition |
+| **Start Date** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **Address 1** | Definition |
+| **Address 2** | Definition |
+| **City** | Definition |
+| **Delivery Option** | Definition |
+| **E-mail** | Definition |
+| **Event Name** | Definition |
+| **Event Option** | Definition |
+| **First Name** | Definition |
+| **Last Name** | Definition |
+| **Opt In** | Definition |
+| **Picked Up** | Definition |
+| **Postal Code** | Definition |
+| **Qty** | Definition |
+| **Record Locator** | Definition |
+| **Seats** | Definition |
+| **State**  | Definition |

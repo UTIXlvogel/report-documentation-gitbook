@@ -1,5 +1,5 @@
 ---
-description: >-
+description: \>-
   Provides you the list and details for everyone that has purchased tickets for
   a specific Event(s) or Package - Use the Display drop-down to view Reservation
   List with Custom Field or with Financia
@@ -19,7 +19,7 @@ description: >-
 | **Package** | Single or subscriber. |
 | **Sale Location** | Location the sale was processed. |
 | **Sales Channel** | "POS" \(Point of Sale\) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
-| Start Date | Date the report will start gathering information from. |
+| **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
 
@@ -50,4 +50,3 @@ description: >-
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
-

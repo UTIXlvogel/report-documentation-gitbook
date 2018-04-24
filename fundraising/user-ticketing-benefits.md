@@ -1,23 +1,25 @@
 # User Ticketing Benefits
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Benefits** | Definition |
+| **End Date** | Definition |
+| **Limit Type** | Definition |
+| **Start Date** | Definition |
+| **Ticket Type Granted** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **Benefit Name** | Definition |
+| **Email** | Definition |
+| **First Name** | Definition |
+| **Last Name** | Definition |
+| **Limit Type** | Definition |
+| **Qty Granted** | Definition |
+| **Ticket Type Granted** | Definition |
+| **Valid From** | Definition |
+| **Valid To** | Definition |

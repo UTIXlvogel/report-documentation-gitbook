@@ -1,23 +1,24 @@
 # Sales by Level and Section
 
-## Getting Super Powers
+## Criteria
 
-Becoming a super hero is a fairly straight forward process:
+| **Field** | **Definition** |
+| --- | --- |
+| **Category** | Definition |
+| **End Date** | Definition |
+| **Event** | Definition |
+| **Package**  | Definition |
+| **Sales Channel** | Definition |
+| **Show Archived Data** | Definition |
+| **Start Date** | Definition |
 
-```
-$ give me super-powers
-```
+## Results
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+| **Column** | **Definition** |
+| --- | --- |
+| **Event Date/Time** | Definition |
+| **Event Name** | Definition |
+| **Level** | Definition |
+| **Qty** | Definition |
+| **Section** | Definition |
+| **Ticket Type** | Definition |
