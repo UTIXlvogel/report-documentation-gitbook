@@ -24,4 +24,4 @@
 | **Phone** | Definition |
 | **Postal Code (Shipping)** | Definition |
 | **State (Shipping)** | Definition |
-| **User Type** | Definition |
+| **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

@@ -30,4 +30,4 @@ description: \>-
 | **Seat** | Definition |
 | **Section** | Definition |
 | **Status** | Definition |
-| **User Type** | Definition |
+| **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

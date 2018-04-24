@@ -4,15 +4,15 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Category** | Definition |
-| **End Date** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **End Date** | Date the report will stop gathering information from. |
+| **Event** | Event the tickets were purchased for. |
 | **Include Item Name** | Definition |
 | **Include Order Charges** | Definition |
 | **Include Ticket Type** | Definition |
-| **Package** | Definition |
+| **Package** | Single or subscriber. |
 | **Show Archived Data** | Definition |
-| **Start Date** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
 
 ## Results
 
@@ -25,5 +25,5 @@
 | **Package Name** | Definition |
 | **Price** | Definition |
 | **Qty** | Definition |
-| **Ticket Type** | Definition |
+| **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |

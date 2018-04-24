@@ -4,11 +4,11 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **End Date** | Definition |
+| **End Date** | Date the report will stop gathering information from. |
 | **Rollover** | Definition |
 | **Show Archived Rollover** | Definition |
 | **Show Deleted Rollover** | Definition |
-| **Start Date** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
 | **User** | Definition |
 
 ## Results

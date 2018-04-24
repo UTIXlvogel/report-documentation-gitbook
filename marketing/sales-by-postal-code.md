@@ -4,9 +4,9 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **End Date** | Definition |
+| **End Date** | Date the report will stop gathering information from. |
 | **Include Item Name** | Definition |
-| **Start Date** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
 
 ## Results
 

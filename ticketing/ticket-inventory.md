@@ -4,8 +4,8 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 | **Show Archived Data** | Definition |
 
 ## Results
@@ -15,7 +15,7 @@
 | **% Remaining** | Definition |
 | **% Reserved** | Definition |
 | **Date** | Definition |
-| **Event Name** | Definition |
+| **Event Name** | Event the tickets were purchased for. |
 | **Qty Remaining** | Definition |
 | **Qty Reserved** | Definition |
 | **Ticket Option** | Definition |

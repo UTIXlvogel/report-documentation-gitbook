@@ -4,8 +4,8 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 | Minimum Tickets | Definition |
 | Show Archived Data | Definition |
 

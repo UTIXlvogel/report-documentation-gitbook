@@ -4,10 +4,10 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Start Date** | Definition |
-| **End Date** | Definition |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
+| **End Date** | Date the report will stop gathering information from. |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 | **Sales Channel** | Definition |
 | **Show Archived Data** | Definition |
 

@@ -4,14 +4,14 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Start Date** | Definition |
-| **End Date** | Definition |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
+| **End Date** | Date the report will stop gathering information from. |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 | **Employee** | Definition |
 | **Sales Channel** | Definition |
-| **Package** | Definition |
-| **Sale Location** | Definition |
+| **Package** | Single or subscriber. |
+| **Sale Location** | Location the sale was processed. |
 | **Include Order Charges** | Definition |
 | **Show Archived Data** | Definition |
 

@@ -4,7 +4,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Event** | Definition |
+| **Event** | Event the tickets were purchased for. |
 | **Event Begin Date/Time** | Definition |
 | **Sales Begin Date/Time** | Definition |
 | **Sales End Date/Time** | Definition |

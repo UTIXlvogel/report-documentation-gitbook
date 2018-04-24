@@ -5,13 +5,13 @@
 | **Field** | **Definition** |
 | --- | --- |
 | Attributes | Definition |
-| **Category** | Definition |
-| **End Date** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **End Date** | Date the report will stop gathering information from. |
+| **Event** | Event the tickets were purchased for. |
 | Package | Definition |
 | Show Archived Data | Definition |
 | Show only users with purchase history | Definition |
-| **Start Date** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
 | User Type | Definition |
 
 ##### Results

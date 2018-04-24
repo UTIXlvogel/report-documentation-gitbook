@@ -5,8 +5,8 @@
 | **Field** | **Definition** |
 | --- | --- |
 | And | Definition |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 | In | Definition |
 | Not In | Definition |
 | Or | Definition |

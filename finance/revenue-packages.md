@@ -4,10 +4,10 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **End Date** | Definition |
-| **Package** | Definition |
+| **End Date** | Date the report will stop gathering information from. |
+| **Package** | Single or subscriber. |
 | **Sales Channel** | Definition |
-| **Start Date** | Definition |
+| **Start Date** | Date the report will start gathering information from. |
 
 ## Results
 
@@ -19,5 +19,5 @@
 | **Package Name** | Definition |
 | **Packages Sold** | Definition |
 | **Payment Method** | Definition |
-| **Ticket Type** | Definition |
+| **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |

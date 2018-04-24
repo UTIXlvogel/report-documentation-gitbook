@@ -4,8 +4,8 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Category** | Definition |
-| **Event** | Definition |
+| **Category** | Category the event is listed within. |
+| **Event** | Event the tickets were purchased for. |
 
 ## Results
 
@@ -23,5 +23,5 @@
 | **Qty Sold** | Definition |
 | **Qty Unscanned** | Definition |
 | **Ticket Option** | Definition |
-| **Ticket Type** | Definition |
+| **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |
