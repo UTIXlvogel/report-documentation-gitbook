@@ -14,7 +14,7 @@
 | **Sales Channel** | Definition |
 | **Start Date** | Date the report will start gathering information from. |
 | **Show Account Number in Totals by Payment Method** | Definition |
-| **Show Archived Data** | Definition |
+| **Show Archived Data** | Text Here |
 | **Show Payment Method in Totals by Item** | Definition |
 
 ## Results

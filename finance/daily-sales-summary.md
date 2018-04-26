@@ -13,7 +13,7 @@
 | **Package** | Single or subscriber. |
 | **Sale Location** | Location the sale was processed. |
 | **Include Order Charges** | Definition |
-| **Show Archived Data** | Definition |
+| **Show Archived Data** | Text Here |
 
 ## Results
 

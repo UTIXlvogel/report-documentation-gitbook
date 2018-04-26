@@ -9,7 +9,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Sales Channel** | Definition |
-| **Show Archived Data** | Definition |
+| **Show Archived Data** | Text Here |
 | **Start Date**  | Definition |
 
 ## Results
