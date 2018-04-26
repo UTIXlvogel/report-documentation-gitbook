@@ -23,3 +23,4 @@
 | Loyalty Points | Definition |
 | Rank | Definition |
 | User Type | Definition |
+

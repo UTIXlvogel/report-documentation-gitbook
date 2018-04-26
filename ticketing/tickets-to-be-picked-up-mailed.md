@@ -31,4 +31,5 @@
 | **Qty** | Definition |
 | **Record Locator** | Definition |
 | **Seats** | Definition |
-| **State**  | Definition |
+| **State** | Definition |
+

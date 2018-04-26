@@ -18,3 +18,4 @@
 | **Charge Type** | Definition |
 | **Payment Method** | Definition |
 | **Total** | Definition |
+

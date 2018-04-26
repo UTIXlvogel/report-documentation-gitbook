@@ -41,3 +41,4 @@
 | **Ticket Number** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
+

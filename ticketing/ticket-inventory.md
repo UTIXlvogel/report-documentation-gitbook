@@ -20,3 +20,4 @@
 | **Qty Reserved** | Definition |
 | **Ticket Option** | Definition |
 | **Total Available** | Definition |
+

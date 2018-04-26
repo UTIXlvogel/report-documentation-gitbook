@@ -10,7 +10,7 @@
 | **Event** | Event the tickets were purchased for. |
 | **Sales Channel** | Definition |
 | **Show Archived Data** | Text Here |
-| **Start Date**  | Definition |
+| **Start Date** | Definition |
 
 ## Results
 
@@ -27,3 +27,4 @@
 | **Ticket Option** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |
+

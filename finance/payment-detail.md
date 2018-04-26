@@ -24,3 +24,4 @@
 | **Record Locator** | Definition |
 | **Total** | Definition |
 | **Transaction ID** | Definition |
+

@@ -9,3 +9,4 @@
 | **Sales Begin Date/Time** | Definition |
 | **Sales End Date/Time** | Definition |
 | **Tickets Sold** | Definition |
+

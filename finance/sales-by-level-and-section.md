@@ -7,7 +7,7 @@
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| **Package**  | Definition |
+| **Package** | Definition |
 | **Sales Channel** | Definition |
 | **Show Archived Data** | Text Here |
 | **Start Date** | Date the report will start gathering information from. |
@@ -22,3 +22,4 @@
 | **Qty** | Definition |
 | **Section** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
+

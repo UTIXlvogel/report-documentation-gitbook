@@ -44,7 +44,7 @@
 ## Marketing
 
 * [Customer Marketing](marketing/customer-marketing.md)
-* [Customer Purchase Comparison](marketing/untitled.md)
+* [Customer Purchase Comparison](marketing/customer-purchase-comparison.md)
 * [Discount Code Redemption](marketing/discount-code-redemption.md)
 * [Hot Leads](marketing/hot-leads.md)
 * [Loyalty Tracking](marketing/loyalty-tracking.md)

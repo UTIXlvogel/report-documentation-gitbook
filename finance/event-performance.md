@@ -25,3 +25,4 @@
 | **Ticket Option** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |
+

@@ -1,7 +1,7 @@
 ---
-description: \>-
-  For Assigned Seating Events. Ability to view what seats have been Reserved,
-  Date, Record Locator, and available seats.
+description: >-
+  \>- For Assigned Seating Events. Ability to view what seats have been
+  Reserved, Date, Record Locator, and available seats.
 ---
 
 # Seating Assignments
@@ -11,7 +11,7 @@ description: \>-
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** |  Event the tickets were purchased for. |
+| **Event** | Event the tickets were purchased for. |
 | **Option** | Ticket Option Name |
 | **Section** | Section to view |
 | **Switch to Text View** | Change the data from Graphical View to Text View |
@@ -31,3 +31,4 @@ description: \>-
 | **Section** | Definition |
 | **Status** | Definition |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
+

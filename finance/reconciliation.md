@@ -19,5 +19,5 @@
 
 ## Results
 
-| **Column** | **Definition** |
-| --- | --- |
+\| **Column** \| **Definition** \| \| --- \| --- \|
+

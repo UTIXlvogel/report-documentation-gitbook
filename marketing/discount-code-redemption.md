@@ -1,6 +1,6 @@
 # Discount Code Redemption
 
-##### Criteria
+## Criteria
 
 | **Field** | **Definition** |
 | --- | --- |
@@ -12,7 +12,7 @@
 | Show Archived Data | Definition |
 | **Start Date** | Date the report will start gathering information from. |
 
-##### Results
+## Results
 
 | **Column** | **Definition** |
 | --- | --- |
@@ -24,3 +24,4 @@
 | Item | Definition |
 | Record Locator | Definition |
 | Redemption | Definition |
+
