@@ -6,7 +6,7 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Definition |
 
 ## Results
 
