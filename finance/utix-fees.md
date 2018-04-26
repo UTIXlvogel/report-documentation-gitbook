@@ -8,7 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Package** | Single or subscriber. |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

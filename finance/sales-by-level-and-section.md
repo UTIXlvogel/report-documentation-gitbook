@@ -9,7 +9,7 @@
 | **Event** | Event the tickets were purchased for. |
 | **Package** | Definition |
 | **Sales Channel** | Definition |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

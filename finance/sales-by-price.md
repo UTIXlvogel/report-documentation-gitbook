@@ -11,7 +11,7 @@
 | **Include Order Charges** | Definition |
 | **Include Ticket Type** | Definition |
 | **Package** | Single or subscriber. |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

@@ -9,7 +9,7 @@
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
 | **Sales Channel** | Definition |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 
 ## Results
 

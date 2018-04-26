@@ -10,7 +10,7 @@
 | **Package** | Single or subscriber. |
 | **Pass ID End \#** | Definition |
 | **Pass ID Start \#** | Definition |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 
 ## Results
 

@@ -8,7 +8,7 @@
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Definition |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

@@ -9,7 +9,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Sales Channel** | Definition |
 | **Sales Location** | Definition |
-| **Show Archived Data** | Text Here |
+| **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
