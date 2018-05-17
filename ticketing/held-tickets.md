@@ -15,5 +15,5 @@
 | **Event Name** | Event the tickets were purchased for. |
 | **Held Seats** | Definition |
 | **Hold Type** | Definition |
-| **Section** |  Section of the venue the customer's seats are located in. |
+| **Section** | Section of the venue the customer's seats are located in. |
 
