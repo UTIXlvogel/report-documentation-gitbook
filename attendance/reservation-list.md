@@ -42,7 +42,7 @@ description: >-
 | **Phone** | Customer's phone number. |
 | **Postal Code** | Zip/postal code of the customer's city. |
 | **Purchase Date** | Date and time the order was processed. |
-| **Record Locator** | A unique series of letters and numbers assigned to an order for easy lookup. |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Sale Location** | Location the sale was processed. |
 | **Seats** | Venue, section, row, and seat number of the seats purchased in the order. |
 | **State** | Customer's state of residence. |

@@ -23,7 +23,7 @@
 | **Gross Price** | Definition |
 | **Item** | Definition |
 | **Package Name** | Definition |
-| **Price** | Definition |
+| **Price** | Price paid for the seat by the customer. |
 | **Qty** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Definition |
