@@ -1,7 +1,7 @@
 ---
 description: >-
-  \>- For Assigned Seating Events. Ability to view what seats have been
-  Reserved, Date, Record Locator, and available seats.
+  For Assigned Seating Events.  Ability to view what seats are still available,
+  as well as ones that are Reserved, including the Date, and the Record Locator.
 ---
 
 # Seating Assignments
