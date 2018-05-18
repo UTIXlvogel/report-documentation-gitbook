@@ -20,6 +20,6 @@
 | **Event Name** | Event the tickets were purchased for. |
 | **Level** | Floor level that the customer's seats are located on. |
 | **Qty** | Definition |
-| **Section** |  Section of the venue the customer's seats are located in. |
+| **Section** | Section of the venue the customer's seats are located in. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 

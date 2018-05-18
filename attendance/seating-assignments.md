@@ -27,8 +27,8 @@ description: >-
 | **Price** | Price paid for the seat by the customer. |
 | **RL** | A unique series of letters assigned to an order for easy lookup. |
 | **Row** | Row number/letter the customer's seats are located in. |
-| **Seat** | Seat number/letter that the customer purchased|
-| **Section** |  Section of the venue the customer's seats are located in. |
+| **Seat** | Seat number/letter that the customer purchased |
+| **Section** | Section of the venue the customer's seats are located in. |
 | **Status** | Status of the seat. "Held" if the seat is on hold by the box office. "Reserved" if the seat has been purchased. Blank if the seat is neither held nor purchased. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
 

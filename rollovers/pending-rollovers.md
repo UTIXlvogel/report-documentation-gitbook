@@ -23,7 +23,7 @@
 | **Phone** | Definition |
 | **Postal Code \(Shipping\)** | Definition |
 | **Rollover Name** | Definition |
-| **Seat** | Seat number/letter that the customer purchased|
+| **Seat** | Seat number/letter that the customer purchased |
 | **State \(Shipping\)** | Definition |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
 

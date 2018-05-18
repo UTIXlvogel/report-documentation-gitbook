@@ -1,7 +1,7 @@
 ---
 description: >-
-  Provides the data for tickets that were scanned for an Event.  Use the Display
-  drop-down to select Scanned in, Unscanned, or Summary Data.
+  Provides the data for tickets that were scanned for an Event.  Use the
+  Display  drop-down to select Scanned in, Unscanned, or Summary Data.
 ---
 
 # Scan
