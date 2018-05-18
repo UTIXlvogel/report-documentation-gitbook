@@ -20,6 +20,6 @@
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| **Record Locator** | Definition |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Seat Location** | Definition |
 

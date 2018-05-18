@@ -8,7 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| **Sales Channel** | Definition |
+| **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Show Archived Data** | Defintion |
 
 ## Results

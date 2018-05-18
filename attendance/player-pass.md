@@ -14,11 +14,11 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Date Requested** | Definition |
+| **Date Requested** | Date the comp tickets were requested.|
 | **Event** | Event the tickets were purchased for. |
-| **Guest First Name** | Definition |
-| **Guest Last Name** | Definition |
-| **Relationship** | Definition |
-| **Requester** | Definition |
-| **Signature** | Definition |
+| **Guest First Name** | First name of the customer the tickets are being given to. |
+| **Guest Last Name** | Last name of the customer the tickets are being given to. |
+| **Relationship** | Relationship of the player who requested the tickets. |
+| **Requester** | Name of the player who requested the tickets.|
+| **Signature** | Signature of the player who requested the tickets. |
 

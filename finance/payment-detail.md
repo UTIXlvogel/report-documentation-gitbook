@@ -21,7 +21,7 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Payment Card Type** | Definition |
 | **Payment Method** | Definition |
-| **Record Locator** | Definition |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Total** | Definition |
 | **Transaction ID** | Definition |
 

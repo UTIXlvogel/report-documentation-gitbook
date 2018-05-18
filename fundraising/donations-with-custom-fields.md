@@ -7,7 +7,7 @@
 | **Attributes** | User Attributes are tags assigned to an individual customer’s profile either \(a\) manually by an administrator or \(b\) automatically when the user purchases an event. These attributes can then be reported on and will also show during the Point of Sale process. |
 | **Campaigns** | Definition |
 | **End Date** | Date the report will stop gathering information from. |
-| **Sales Channel** | Definition |
+| **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Sales Location** | Definition |
 | **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
@@ -34,7 +34,7 @@
 | **Order Notes** | Definition |
 | **Postal Code** | Definition |
 | **Purchase Date** | Definition |
-| **Record Locator** | Definition |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Sales Location** | Definition |
 | **Seats** | Definition |
 | **State** | Definition |

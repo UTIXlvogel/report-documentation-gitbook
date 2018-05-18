@@ -21,7 +21,7 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Level Designation** | Definition |
 | **Pass ID** | Definition |
-| **Record Locator** | Definition |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Row Destination** | Definition |
 | **Section Designation** | Definition |
 | **Seat Designation** | Definition |

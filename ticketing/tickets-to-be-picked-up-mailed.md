@@ -29,7 +29,7 @@
 | **Picked Up** | Definition |
 | **Postal Code** | Definition |
 | **Qty** | Definition |
-| **Record Locator** | Definition |
+| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Seats** | Definition |
 | **State** | Definition |
 

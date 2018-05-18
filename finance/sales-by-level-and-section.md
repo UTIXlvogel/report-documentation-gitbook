@@ -8,7 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Package** | Definition |
-| **Sales Channel** | Definition |
+| **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Show Archived Data** | Defintion |
 | **Start Date** | Date the report will start gathering information from. |
 
