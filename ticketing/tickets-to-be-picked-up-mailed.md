@@ -27,8 +27,8 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Opt In** | Definition |
 | **Picked Up** | Definition |
-| **Postal Code** | Definition |
-| **Qty** | Definition |
+| **Postal Code** | Postal Code of the customer who purchased the order.|
+| **Qty** | Total number of reservations. |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Seats** | Definition |
 | **State** | Definition |

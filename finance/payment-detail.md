@@ -22,6 +22,6 @@
 | **Payment Card Type** | Definition |
 | **Payment Method** | Definition |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 | **Transaction ID** | Definition |
 

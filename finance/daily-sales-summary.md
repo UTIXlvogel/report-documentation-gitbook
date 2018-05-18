@@ -24,5 +24,5 @@
 | **Credit Card / POS** | Definition |
 | **Credit Card / WEB** | Definition |
 | **Payment Date** | Definition |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 

@@ -22,6 +22,6 @@
 | **Qty Scanned** | Definition |
 | **Qty Sold** | Definition |
 | **Qty Unscanned** | Definition |
-| **Ticket Option** | Definition |
+| **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |

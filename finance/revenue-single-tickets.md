@@ -23,8 +23,8 @@
 | **Event Name** | Event the tickets were purchased for. |
 | **Gross Price** | Definition |
 | **Payment Method** | Definition |
-| **Qty** | Definition |
-| **Ticket Option** | Definition |
+| **Qty** | Total number of reservations. |
+| **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 

@@ -18,5 +18,5 @@
 | **Date** | Definition |
 | **Returns** | Definition |
 | **Sales** | Definition |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 

@@ -14,13 +14,13 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Electronic Signature** | Electronic signature of the customer providing legal consent or approval on electronic documents or form. |
+| **Electronic Signature** | The name of the customer providing legal consent or approval on electronic documents or form by entering their name. |
 | **Email** | E-Mail address of the customer. |
 | **Event Name** | Event the tickets were purchased for. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **User IP** | The customers IP address used when completing the waiver. |
-| **Waiver Date** | Date the waiver was signed. |
-| **Waiver Name** | Name of the customer agreeing to the waiver. |
+| **Waiver Date** | Date and time the waiver was signed. |
+| **Waiver Name** | Name of the waiver the customer is agreeing to. |
 

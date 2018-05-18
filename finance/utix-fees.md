@@ -18,6 +18,6 @@
 | **Account number** | Definition |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
-| **Qty** | Definition |
+| **Qty** | Total number of reservations. |
 | **UTIX Fees** | Definition |
 

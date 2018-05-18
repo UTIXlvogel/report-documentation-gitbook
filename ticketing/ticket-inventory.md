@@ -18,6 +18,6 @@
 | **Event Name** | Event the tickets were purchased for. |
 | **Qty Remaining** | Definition |
 | **Qty Reserved** | Definition |
-| **Ticket Option** | Definition |
+| **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Total Available** | Definition |
 

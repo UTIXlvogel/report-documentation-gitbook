@@ -32,7 +32,7 @@
 | **Mailing Address** | Mailing address of the customer who purchased the order. |
 | **Option** | Definition |
 | **Order Notes** | Definition |
-| **Postal Code** | Definition |
+| **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Purchase Date** | Definition |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Sales Location** | Definition |

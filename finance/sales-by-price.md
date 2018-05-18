@@ -7,7 +7,7 @@
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| **Include Item Name** | Definition |
+| **Include Item Name** | Event Name |
 | **Include Order Charges** | Definition |
 | **Include Ticket Type** | Definition |
 | **Package** | Single or subscriber. |
@@ -21,10 +21,10 @@
 | **Conv. Fee** | Definition |
 | **Discount/Surcharges** | Definition |
 | **Gross Price** | Definition |
-| **Item** | Definition |
+| **Item** | Event Name |
 | **Package Name** | Definition |
 | **Price** | Price paid for the seat by the customer. |
-| **Qty** | Definition |
+| **Qty** | Total number of reservations. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 

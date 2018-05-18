@@ -17,5 +17,5 @@
 | --- | --- |
 | **Charge Type** | Definition |
 | **Payment Method** | Definition |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 

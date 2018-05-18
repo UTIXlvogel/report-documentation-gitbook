@@ -20,5 +20,5 @@
 | **Packages Sold** | Definition |
 | **Payment Method** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Definition |
+| **Total** | Total amount of money received in sales. |
 
