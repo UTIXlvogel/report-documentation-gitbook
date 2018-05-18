@@ -9,13 +9,13 @@
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
-| **Show Archived Data** | Defintion |
+| **Show Archived Data** | Events in the past. |
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Date** | Definition |
+| **Date** | Date the change occurred. |
 | **Returns** | Definition |
 | **Sales** | Definition |
 | **Total** | Total amount of money received in sales. |

@@ -9,7 +9,7 @@
 | **Event** | Event the tickets were purchased for. |
 | **Package** | Definition |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
-| **Show Archived Data** | Defintion |
+| **Show Archived Data** | Events in the past. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

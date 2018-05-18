@@ -15,10 +15,10 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Action** | Definition |
-| **Current Value** | Definition |
-| **Date** | Definition |
-| **Last Modified By** | Definition |
-| **Modify Field** | Definition |
-| **Previous Value** | Definition |
+| **Action** | Defines what type of change was done. |
+| **Current Value** | Provides the updated information that was changed in the profile. |
+| **Date** | Date the change occurred. |
+| **Last Modified By** | Name of who modified the change. |
+| **Modify Field** | Field the change occurred in. |
+| **Previous Value** | Previous value the profile was set to. |
 

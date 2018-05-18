@@ -17,7 +17,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | Customer Name | Definition |
-| **Date** | Definition |
+| **Date** | Date the change occurred. |
 | Discount Amount | Definition |
 | Discount Code | Definition |
 | **Email** | E-Mail address of the customer. |

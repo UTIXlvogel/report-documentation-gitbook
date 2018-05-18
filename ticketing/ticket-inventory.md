@@ -6,7 +6,7 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| **Show Archived Data** | Defintion |
+| **Show Archived Data** | Events in the past. |
 
 ## Results
 
@@ -14,7 +14,7 @@
 | --- | --- |
 | **% Remaining** | Definition |
 | **% Reserved** | Definition |
-| **Date** | Definition |
+| **Date** | Date the change occurred. |
 | **Event Name** | Event the tickets were purchased for. |
 | **Qty Remaining** | Definition |
 | **Qty Reserved** | Definition |

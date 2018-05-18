@@ -9,7 +9,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Sales Location** | Definition |
-| **Show Archived Data** | Defintion |
+| **Show Archived Data** | Events in the past. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
@@ -27,7 +27,7 @@
 | **Event Date/Time** | Date and time the event will begin. |
 | **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
 | **First Name** | First name of the customer who purchased the order. |
-| **Last Modified By** | Definition |
+| **Last Modified By** | Name of who modified the change. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Mailing Address** | Mailing address of the customer who purchased the order. |
 | **Option** | Definition |

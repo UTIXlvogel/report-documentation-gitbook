@@ -17,7 +17,7 @@
 | **Date/Time** | Definition |
 | **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
 | **First Name** | First name of the customer who purchased the order. |
-| **Last Modified By** | Definition |
+| **Last Modified By** | Name of who modified the change. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Payment Card Type** | Definition |
 | **Payment Method** | Definition |
