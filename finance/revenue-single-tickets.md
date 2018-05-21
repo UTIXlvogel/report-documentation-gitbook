@@ -22,7 +22,7 @@
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
 | **Gross Price** | Definition |
-| **Payment Method** | Definition |
+| **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Qty** | Total number of reservations. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |

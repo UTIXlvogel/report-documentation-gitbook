@@ -10,7 +10,7 @@
 | **Event** | Event the tickets were purchased for. |
 | **Include Order Charges** | Definition |
 | **Package** | Single or subscriber. |
-| **Payment Method** | Definition |
+| **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Show Account Number in Totals by Payment Method** | Definition |

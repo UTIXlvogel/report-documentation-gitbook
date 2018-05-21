@@ -8,7 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| **Employee** | Definition |
+| **Employee** | Employee Name |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Package** | Single or subscriber. |
 | **Sale Location** | Location the sale was processed. |
@@ -19,10 +19,10 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Cash** | Definition |
-| **Check** | Definition |
-| **Credit Card / POS** | Definition |
-| **Credit Card / WEB** | Definition |
-| **Payment Date** | Definition |
+| **Cash** | Cash payment. |
+| **Check** | Check payment. |
+| **Credit Card / POS** | Credit Card payment received through the box office. |
+| **Credit Card / WEB** | Credit Card payment received through WEB. |
+| **Payment Date** | Date of payment.  |
 | **Total** | Total amount of money received in sales. |
 

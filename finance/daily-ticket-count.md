@@ -16,7 +16,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Date** | Date the change occurred. |
-| **Returns** | Definition |
-| **Sales** | Definition |
+| **Returns** | Total number of tickets returned. |
+| **Sales** | Total number of sales. |
 | **Total** | Total amount of money received in sales. |
 
