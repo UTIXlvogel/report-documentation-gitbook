@@ -18,5 +18,5 @@
 | **Date** | Date the change occurred. |
 | **Returns** | Total number of tickets returned. |
 | **Sales** | Total number of sales. |
-| **Total** | Total amount of money received in sales. |
+| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
 

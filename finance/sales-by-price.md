@@ -26,5 +26,5 @@
 | **Price** | Price paid for the seat by the customer. |
 | **Qty** | Total number of reservations. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Total amount of money received in sales. |
+| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
 

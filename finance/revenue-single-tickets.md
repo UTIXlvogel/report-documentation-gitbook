@@ -26,5 +26,5 @@
 | **Qty** | Total number of reservations. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Total amount of money received in sales. |
+| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
 

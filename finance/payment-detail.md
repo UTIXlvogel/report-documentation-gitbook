@@ -14,7 +14,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Account Number** | Definition |
-| **Date/Time** | Definition |
+| **Date/Time** | Date and time the order was placed.|
 | **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified By** | Name of who modified the change. |
@@ -22,6 +22,6 @@
 | **Payment Card Type** | Definition |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
-| **Total** | Total amount of money received in sales. |
+| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
 | **Transaction ID** | Definition |
 

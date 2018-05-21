@@ -17,5 +17,5 @@
 | --- | --- |
 | **Charge Type** | Type of charge. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
-| **Total** | Total amount of money received in sales. |
+| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
 

@@ -15,7 +15,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Date/Time** | Definition |
+| **Date/Time** | Date and time the order was placed.|
 | **Event Name** | Event the tickets were purchased for. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |
