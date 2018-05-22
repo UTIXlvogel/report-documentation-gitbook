@@ -36,8 +36,8 @@
 | **Purchase Date** | Definition |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
 | **Sales Location** | Definition |
-| **Seats** | Definition |
-| **State** | Definition |
+| **Seats** | Seats the customers purchased. |
+| **State** | State the customer lives in. |
 | **Ticket Number** | Definition |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

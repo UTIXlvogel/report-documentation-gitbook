@@ -5,10 +5,10 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Delivery Option** | Definition |
+| **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| **Picked Up** | Definition |
+| **Picked Up** | Whether the tickets were picked up. |
 | **Show Archived Data** | Events in the past. |
 | **Start Date** | Date the report will start gathering information from. |
 
@@ -16,20 +16,20 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Address 1** | Definition |
-| **Address 2** | Definition |
+| **Address 1** | Address line one of the customer's mailing address. |
+| **Address 2** | Address line two of the customer's mailing address. |
 | **City** | Customer's city of residence. |
-| **Delivery Option** | Definition |
-| **E-mail** | Definition |
+| **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
+| **E-mail** | E-Mail address of the customer. |
 | **Event Name** | Event the tickets were purchased for. |
-| **Event Option** | Definition |
+| **Event Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Opt In** | Definition |
-| **Picked Up** | Definition |
+| **Picked Up** | Whether the tickets were picked up. |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
-| **Seats** | Definition |
-| **State** | Definition |
+| **Seats** | Seats the customers purchased. |
+| **State** | State the customer lives in. |
 

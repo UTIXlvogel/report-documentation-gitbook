@@ -11,7 +11,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Attribute Name** | Definition |
-| **E-Mail** | Definition |
+| **E-mail** | E-Mail address of the customer. |
 | **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
