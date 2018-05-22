@@ -12,7 +12,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account Number** | Definition |
+| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
 | **Campaigns** | Definition |
 | **Email** | E-Mail address of the customer. |
 | **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |

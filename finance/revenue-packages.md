@@ -13,11 +13,11 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Conv. Fee** | Definition |
-| **Discounts/Surcharges** | Definition |
-| **Gross Price** | Definition |
-| **Package Name** | Definition |
-| **Packages Sold** | Definition |
+| **Conv. Fee** | Total customer convenience fees added to tickets. |
+| **Discounts/Surcharges** | Discounts and surcharges applied. |
+| **Gross Price** | Price before deductions. |
+| **Package Name** | Name of the Package the tickets were purchased for. |
+| **Packages Sold** | Total number of packages sold. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |

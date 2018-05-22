@@ -18,7 +18,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account Number** | Definition |
+| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
 | **Amount Donated** | Definition |
 | **Campaigns** | Definition |
 | **City** | Customer's city of residence. |

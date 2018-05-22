@@ -16,12 +16,12 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account Number** | Definition |
-| **Conv. Fee** | Definition |
-| **Discounts/Surcharges** | Definition |
+| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
+| **Conv. Fee** | Total customer convenience fees added to tickets. |
+| **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
-| **Gross Price** | Definition |
+| **Gross Price** | Price before deductions. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Qty** | Total number of reservations. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |

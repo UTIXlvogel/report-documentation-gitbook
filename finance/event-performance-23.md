@@ -14,9 +14,9 @@
 | **% Scanned** | Definition |
 | **% Unscanned** | Definition |
 | **Amount** | Definition |
-| **Conv. Fee** | Definition |
+| **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts** | Definition |
-| **Gross Price** | Definition |
+| **Gross Price** | Price before deductions. |
 | **Order Charges** | Definition |
 | **Price Level** | Definition |
 | **Qty Scanned** | Definition |

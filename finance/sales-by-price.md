@@ -18,11 +18,11 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Conv. Fee** | Definition |
+| **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discount/Surcharges** | Definition |
-| **Gross Price** | Definition |
+| **Gross Price** | Price before deductions. |
 | **Item** | Event Name |
-| **Package Name** | Definition |
+| **Package Name** | Name of the Package the tickets were purchased for. |
 | **Price** | Price paid for the seat by the customer. |
 | **Qty** | Total number of reservations. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |

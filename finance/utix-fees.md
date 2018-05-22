@@ -15,7 +15,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account number** | Definition |
+| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
 | **Qty** | Total number of reservations. |
