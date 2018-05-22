@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
-| **Rollover** | Definition |
+| **Rollover** | Package that had rollovers. |
 | **Show Archived Rollover** | Definition |
 | **Show Deleted Rollover** | Definition |
 | **Start Date** | Date the report will start gathering information from. |

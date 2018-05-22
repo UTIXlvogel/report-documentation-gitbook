@@ -4,8 +4,8 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Rollover** | Definition |
-| **Rollover Type** | Definition |
+| **Rollover** | Package that had rollovers. |
+| **Rollover Type** | Type of Rollover: All, Pending, Completed. |
 
 ## Results
 
