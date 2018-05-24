@@ -25,7 +25,7 @@
 | **Event Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| **Opt In** | If the customer Opted In to receive email updates for upcoming events. |
+| **Opt In** | "True" if the customer approved of receiving marketing materials; "False" if not. |
 | **Picked Up** | Whether the tickets were picked up. |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |

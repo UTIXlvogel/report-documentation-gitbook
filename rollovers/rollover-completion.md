@@ -20,7 +20,7 @@
 | **First Name \(Shipping\)** | First name used for shipping the customer their tickets.|
 | **Last Name \(Billing\)** | Last name on the customer's credit card or check.|
 | **Last Name \(Shipping\)** |  Last name used for shipping the customer their tickets. |
-| **Opt In** | If the customer Opted In to receive email updates for upcoming events. |
+| **Opt In** | "True" if the customer approved of receiving marketing materials; "False" if not. |
 | **Phone** | Customer's phone number.|
 | **Postal Code \(Shipping\)** |Zip/postal code of the customer's city.|
 | **State \(Shipping\)** | Customer's state of residence.|
