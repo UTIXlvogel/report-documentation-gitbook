@@ -22,5 +22,5 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | Loyalty Points | Definition |
 | Rank | Definition |
-| User Type | Definition |
+| User Type | Category the customer has been assigned (Student, General Public, Senior)|
 

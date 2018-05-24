@@ -13,7 +13,7 @@
 | --- | --- |
 | **% Scanned** | Definition |
 | **% Unscanned** | Definition |
-| **Amount** | Definition |
+| **Amount** | Total amount of purchase. |
 | **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts** | Definition |
 | **Gross Price** | Price before deductions. |

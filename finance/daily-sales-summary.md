@@ -12,7 +12,7 @@
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Package** | Single or subscriber. |
 | **Sale Location** | Location the sale was processed. |
-| **Include Order Charges** | Definition |
+| **Include Order Charges** | Include Order Charges in the report. |
 | **Show Archived Data** | Events in the past. |
 
 ## Results

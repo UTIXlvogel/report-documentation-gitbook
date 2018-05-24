@@ -11,8 +11,8 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Amount** | Definition |
+| **Amount** | Total amount of purchase. |
 | **Item Type** | Definition |
-| **Rollover Name** | Definition |
+| **Rollover Name** | Name of the Rollover. |
 | **Seat Info** | Definition |
 

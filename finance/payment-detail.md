@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
-| **Payment/Credit** | Definition |
+| **Payment/Credit** | Choose between Payment + Credits, Payments, or Credits. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Start Date** | Date the report will start gathering information from. |
 

@@ -8,7 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Include Item Name** | Event Name |
-| **Include Order Charges** | Definition |
+| **Include Order Charges** | Include Order Charges in the report. |
 | **Include Ticket Type** | Definition |
 | **Package** | Single or subscriber. |
 | **Show Archived Data** | Events in the past. |

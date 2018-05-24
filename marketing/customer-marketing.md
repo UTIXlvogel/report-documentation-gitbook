@@ -12,25 +12,25 @@
 | Show Archived Data | Definition |
 | Show only users with purchase history | Definition |
 | **Start Date** | Date the report will start gathering information from. |
-| User Type | Definition |
+| User Type | Category the customer has been assigned (Student, General Public, Senior)|
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| Address \(Shipping\) | Definition |
-| Address \#2 \(Shipping\) | Definition |
-| City \(Shipping\) | Definition |
-| Date Created | Definition |
-| E-mail/Login | Definition |
-| First Name \(Billing\) | Definition |
-| First Name \(Shipping\) | Definition |
-| Last Name \(Billing\) | Definition |
-| Last Name \(Shipping\) | Definition |
-| Opt In | Definition |
-| Phone | Definition |
-| Postal Code \(Shipping\) | Definition |
-| State \(Shipping\) | Definition |
-| User Type | Definition |
+| Address \(Shipping\) |  Customer's address; for shipping them their tickets.|
+| Address \#2 \(Shipping\) | An optional second line for the customer's address. |
+| City \(Shipping\) | Customer's city of residence.|
+| Date Created | Date the customer was added to the system.|
+| E-mail/Login | Customer's email address; entered when they signed up on the site. A placeholder of NoEmail or NoEM will be entered if no email was provided for a POS transaction.|
+| First Name \(Billing\) | First name on the customer's credit card or check.|
+| First Name \(Shipping\) | First name used for shipping the customer their tickets.|
+| Last Name \(Billing\) | Last name on the customer's credit card or check|
+| Last Name \(Shipping\) | Last name used for shipping the customer their tickets.|
+| Opt In | "True" if the customer approved of receiving marketing materials; "False" if not.|
+| Phone | Customer's phone number.|
+| Postal Code \(Shipping\) | Zip/postal code of the customer's city.|
+| State \(Shipping\) | Customer's State of residence.|
+| User Type | Category the customer has been assigned (Student, General Public, Senior)|
 | UTIX Id | Definition |
 

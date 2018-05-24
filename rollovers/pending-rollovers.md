@@ -22,7 +22,7 @@
 | **Opt In** | If the customer Opted In to receive email updates for upcoming events. |
 | **Phone** | Definition |
 | **Postal Code \(Shipping\)** | Definition |
-| **Rollover Name** | Definition |
+| **Rollover Name** | Name of the Rollover. |
 | **Seat** | Seat number/letter that the customer purchased |
 | **State \(Shipping\)** | Definition |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
