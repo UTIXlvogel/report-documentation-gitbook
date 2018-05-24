@@ -21,6 +21,6 @@
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | Loyalty Points | Definition |
-| Rank | Definition |
+| Rank | Rank number based on amount of loyalty points. |
 | User Type | Category the customer has been assigned (Student, General Public, Senior)|
 
