@@ -4,26 +4,26 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Rollovers** | Definition |
+| **Rollovers** | Name of the rollover. |
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Address \(Shipping\)** | Definition |
-| **Address \#2 \(Shipping\)** | Definition |
-| **City \(Shipping\)** | Definition |
-| **Date Created** | Definition |
-| **E-mail/Login** | Definition |
-| **First Name \(Billing\)** | Definition |
-| **First Name \(Shipping\)** | Definition |
-| **Last Name \(Billing\)** | Definition |
-| **Last Name \(Shipping\)** | Definition |
+| **Address \(Shipping\)** | Customer's address; for shipping them their tickets. |
+| **Address \#2 \(Shipping\)** | Optional second line for the customer's address.|
+| **City \(Shipping\)** | Customer's city of residence.|
+| **Date Created** | Date the customer was added to the system.|
+| **E-mail/Login** | Customer's email address; entered when they signed up on the site. A placeholder of NoEmail or NoEM will be entered if no email was provided for a POS transaction.|
+| **First Name \(Billing\)** |  First name on the customer's credit card or check.|
+| **First Name \(Shipping\)** | First name used for shipping the customer their tickets.|
+| **Last Name \(Billing\)** | Last name on the customer's credit card or check.|
+| **Last Name \(Shipping\)** |  Last name used for shipping the customer their tickets. |
 | **Opt In** | If the customer Opted In to receive email updates for upcoming events. |
-| **Phone** | Definition |
-| **Postal Code \(Shipping\)** | Definition |
+| **Phone** | Customer's phone number.|
+| **Postal Code \(Shipping\)** |Zip/postal code of the customer's city.|
 | **Rollover Name** | Name of the Rollover. |
 | **Seat** | Seat number/letter that the customer purchased |
-| **State \(Shipping\)** | Definition |
+| **State \(Shipping\)** | Customer's state of residence.|
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
 

@@ -19,11 +19,11 @@
 | **First Name** | First name of the customer who purchased the order. |
 | **Item Name** | Event name the tickets were reserved for. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| **Level Designation** | Definition |
+| **Level Designation** | Level of the reserved ticket. |
 | **Pass ID** | Definition |
 | **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
-| **Row Destination** | Definition |
-| **Section Designation** | Definition |
-| **Seat Designation** | Definition |
+| **Row Destination** | Row of the reserved ticket. |
+| **Section Designation** | Section of the reserved ticket. |
+| **Seat Designation** | Seat number of the reserved ticket. |
 | **Venue** | Venue name for assigned seating events or General Admission for the event. |
 
