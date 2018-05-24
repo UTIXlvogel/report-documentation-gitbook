@@ -12,7 +12,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Amount** | Total amount of purchase. |
-| **Item Type** | Definition |
+| **Item Type** | Events included in invoice. |
 | **Rollover Name** | Name of the Rollover. |
-| **Seat Info** | Definition |
+| **Seat Info** | Location of the reserved seat. |
 
