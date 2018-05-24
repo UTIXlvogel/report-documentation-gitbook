@@ -6,10 +6,10 @@
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Rollover** | Package that had rollovers. |
-| **Show Archived Rollover** | Definition |
-| **Show Deleted Rollover** | Definition |
+| **Show Archived Rollover** | Include rollovers in the past. |
+| **Show Deleted Rollover** | Include deleted rollovers. |
 | **Start Date** | Date the report will start gathering information from. |
-| **User** | Definition |
+| **User** | Name of user the report is run on. |
 
 ## Results
 
