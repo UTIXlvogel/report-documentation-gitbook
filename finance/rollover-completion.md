@@ -20,7 +20,7 @@
 | **First Name \(Shipping\)** | Definition |
 | **Last Name \(Billing\)** | Definition |
 | **Last Name \(Shipping\)** | Definition |
-| **Opt In** | Definition |
+| **Opt In** | If the customer Opted In to receive email updates for upcoming events. |
 | **Phone** | Definition |
 | **Postal Code \(Shipping\)** | Definition |
 | **State \(Shipping\)** | Definition |
