@@ -4,12 +4,12 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| And | Definition |
+| And | If the customers purchase was in one event "And" another.|
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| In | Definition |
-| Not In | Definition |
-| Or | Definition |
+| In | If the customers purchase was in one event and also "In" another.  |
+| Not In | If the customers purchase was in one event but "Not In' another. | 
+| Or | If the customers purchase was in one event "Or"' another.|
 | Package | Single or subscriber.|
 | Show Archived Data | Include events in the past.|
 

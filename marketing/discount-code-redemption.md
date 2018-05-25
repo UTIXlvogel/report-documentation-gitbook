@@ -16,7 +16,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| Customer Name | Definition |
+| Customer Name | Name of the customer who purchased the order. |
 | **Date** | Date the change occurred. |
 | Discount Amount |  Amount of the discount that was applied to the order. |
 | Discount Code | Code entered at POS or Web check out that resulted in the discount. |
