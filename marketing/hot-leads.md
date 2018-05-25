@@ -6,7 +6,7 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
-| Minimum Tickets | Definition |
+| Minimum Tickets | Minimum tickets purchased for the event or package to begin the reporting. |
 | Show Archived Data | Include events in the past.|
 
 ## Results
@@ -26,6 +26,6 @@
 | Phone | Customer's phone number.|
 | Postal Code \(Shipping\) | Zip/postal code of the customer's city.|
 | State \(Shipping\) | Customer's State of residence.|
-| Tickets | Definition |
+| Tickets | Number of tickets the customer purchased for the selected report. |
 | User Type | Category the customer has been assigned (Student, General Public, Senior)|
 
