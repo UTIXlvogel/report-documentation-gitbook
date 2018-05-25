@@ -8,19 +8,19 @@
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| Package | Definition |
-| Show Archived Data | Definition |
+| Package | Single or subscriber.|
+| Show Archived Data | Include events in the past.|
 | **Start Date** | Date the report will start gathering information from. |
-| Ticket State | Definition |
+| Ticket State | Filter ticket status by: Purchased/Reserved only or Scanned. |
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| E-mail | Definition |
+| E-mail | E-Mail address of the customer.|
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| Loyalty Points | Definition |
-| Rank | Rank number based on amount of loyalty points. |
+| Loyalty Points | Total amount of loyalty points this specific customer has accumulated across all categories/events selected. |
+| Rank | Rank is assigned to the customer based on how many Loyalty Points they have. The more points they have, the higher their rank. |
 | User Type | Category the customer has been assigned (Student, General Public, Senior)|
 

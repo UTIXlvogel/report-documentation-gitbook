@@ -8,8 +8,8 @@
 | Discount Code | Definition |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| Package | Definition |
-| Show Archived Data | Definition |
+| Package | Single or subscriber.|
+| Show Archived Data | Include events in the past.|
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

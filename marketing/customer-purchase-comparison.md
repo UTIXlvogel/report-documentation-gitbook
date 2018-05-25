@@ -10,8 +10,8 @@
 | In | Definition |
 | Not In | Definition |
 | Or | Definition |
-| Package | Definition |
-| Show Archived Data | Definition |
+| Package | Single or subscriber.|
+| Show Archived Data | Include events in the past.|
 
 ## Results
 
