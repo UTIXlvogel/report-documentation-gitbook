@@ -19,5 +19,5 @@
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
 | **Qty** | Total number of reservations. |
-| **UTIX Fees** | Definition |
+| **UTIX Fees** | 	Fees paid to UniversityTickets. |
 

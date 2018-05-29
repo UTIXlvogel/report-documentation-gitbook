@@ -15,7 +15,7 @@
 | --- | --- |
 | **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
-| **Gross Price** | Price before deductions. |
+| **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
 | **Package Name** | Name of the Package the tickets were purchased for. |
 | **Packages Sold** | Total number of packages sold. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |

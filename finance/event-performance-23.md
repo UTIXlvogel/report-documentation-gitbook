@@ -16,7 +16,7 @@
 | **Amount** | Total amount of purchase. |
 | **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts** | Discounts applied. |
-| **Gross Price** | Price before deductions. |
+| **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
 | **Order Charges** | Definition |
 | **Price Level** | Definition |
 | **Qty Scanned** | Total number of tickets scanned. |
