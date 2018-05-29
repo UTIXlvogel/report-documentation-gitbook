@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Attributes** | User Attributes are tags assigned to an individual customer’s profile either \(a\) manually by an administrator or \(b\) automatically when the user purchases an event. These attributes can then be reported on and will also show during the Point of Sale process. |
-| **Campaigns** | Definition |
+| **Campaigns** | Name of the campaign. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Sales Location** | "POS" (Point of Sale) for tickets purchased through the box office. "Internet" for tickets purchased at home by customers.|
@@ -20,7 +20,7 @@
 | --- | --- |
 | **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
 | **Amount Donated** | Total amount donated by customer. |
-| **Campaigns** | Definition |
+| **Campaigns** | Name of the campaign. |
 | **City** | Customer's city of residence. |
 | **Customer Info** | Optional additional customer information. |
 | **Email** | E-Mail address of the customer. |
@@ -30,7 +30,7 @@
 | **Last Modified By** | Name of who modified the change. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Mailing Address** | Mailing address of the customer who purchased the order. |
-| **Option** | Definition |
+| **Option** | Name used when creating Campaign Options. |
 | **Order Notes** | Notes left during POS by box office employee. |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Purchase Date** | Date and time the order was processed.|
