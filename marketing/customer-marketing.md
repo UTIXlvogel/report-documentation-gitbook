@@ -32,5 +32,5 @@
 | Postal Code \(Shipping\) | Zip/postal code of the customer's city.|
 | State \(Shipping\) | Customer's State of residence.|
 | User Type | Category the customer has been assigned (Student, General Public, Senior)|
-| UTIX Id | Definition |
+| UTIX Id | Unique identifying number of user in UniversityTickets |
 

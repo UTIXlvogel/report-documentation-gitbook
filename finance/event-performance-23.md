@@ -17,8 +17,8 @@
 | **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts** | Discounts applied. |
 | **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
-| **Order Charges** | Definition |
-| **Price Level** | Definition |
+| **Order Charges** | Displays all order level charges contained within reporting criteria. |
+| **Price Level** | Unit price. |
 | **Qty Scanned** | Total number of tickets scanned. |
 | **Qty Sold** | Total of tickets sold for the event. |
 | **Qty Unscanned** | Total of tickets sold that were not scanned for the event. |
