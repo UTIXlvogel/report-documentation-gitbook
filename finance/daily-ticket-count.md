@@ -15,7 +15,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Date** | Date the change occurred. |
+| **Date** | Date of event or update. |
 | **Returns** | Total number of tickets returned. |
 | **Sales** | Total number of sales. |
 | **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |

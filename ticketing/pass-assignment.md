@@ -17,10 +17,10 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **First Name** | First name of the customer who purchased the order. |
-| **Item Name** | Event name the tickets were reserved for. |
+| **Item Name** | Name of Event, Donation, Deposit, Package, or Order Charge. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Level Designation** | Level of the reserved ticket. |
-| **Pass ID** | Unique player pass number for student.|
+| **Pass ID** | Unique barcode number from credential.|
 | **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **Row Destination** | Row of the reserved ticket. |
 | **Section Designation** | Section of the reserved ticket. |

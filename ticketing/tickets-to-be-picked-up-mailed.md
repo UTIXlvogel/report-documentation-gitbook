@@ -8,7 +8,7 @@
 | **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
-| **Picked Up** | Whether the tickets were picked up. |
+| **Picked Up** | Picked UP - Were the tickets picked up: Yes or No |
 | **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 
@@ -22,11 +22,11 @@
 | **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **E-mail** | E-Mail address of the customer. |
 | **Event Name** | Name of Event.|
-| **Event Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
+| **Event Option** | Name of the ticket option built in the event. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Opt In** | "True" if the customer approved of receiving marketing materials; "False" if not. |
-| **Picked Up** | Whether the tickets were picked up. |
+| **Picked Up** | Picked UP - Were the tickets picked up: Yes or No |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |
 | **Record Locator** | A unique series of 6 letters assigned to an order. |

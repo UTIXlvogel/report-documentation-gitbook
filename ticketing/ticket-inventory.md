@@ -14,10 +14,10 @@
 | --- | --- |
 | **% Remaining** | Percentage of tickets remaining for the event.|
 | **% Reserved** | Percentage of tickets sold for the event.|
-| **Date** | Date the change occurred. |
+| **Date** | Date of event or update. |
 | **Event Name** | Name of Event.|
 | **Qty Remaining** | Number of tickets remaining for sale.|
 | **Qty Reserved** | Number of tickets that were sold for the event.|
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
-| **Total Available** | Total tickets for sale for the event. |
+| **Total Available** | Total number of tickets available for sale.|
 
