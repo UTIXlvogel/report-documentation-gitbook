@@ -11,13 +11,13 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Available Seats** | Total amount of seats available for and event. |
+| **Available Seats** |Total amount of seats available for an event. |
 | **Category Name** | Name of the category the event is listed within.|
 | **Event Name** | Event the tickets were purchased for. |
 | **Reservations** | Total amount of tickets sold for an event. |
 | **Scan Count** | Total number of tickets scanned for an event. |
-| **Scan Rate \(%\)** | Total percentage amount of tickets scanned. |
-| **Sell Rate \(%\)** | Total percentage of tickets sold. |
+| **Scan Rate \(%\)** | Percentage of tickets scanned of the total number of available tickets for the event. |
+| **Sell Rate \(%\)** | Percentage of tickets sold of the total number of available tickets for the event. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 

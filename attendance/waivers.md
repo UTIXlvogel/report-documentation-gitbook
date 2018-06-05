@@ -19,7 +19,7 @@
 | **Event Name** | Event the tickets were purchased for. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
+| **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **User IP** | The customers IP address used when completing the waiver. |
 | **Waiver Date** | Date and time the waiver was signed. |
 | **Waiver Name** | Name of the waiver the customer is agreeing to. |

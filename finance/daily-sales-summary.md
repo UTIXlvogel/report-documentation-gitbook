@@ -10,7 +10,7 @@
 | **Event** | Event the tickets were purchased for. |
 | **Employee** | Employee Name |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Sale Location** | Location the sale was processed. |
 | **Include Order Charges** | Include Order Charges in the report. |
 | **Show Archived Data** | Events in the past. |

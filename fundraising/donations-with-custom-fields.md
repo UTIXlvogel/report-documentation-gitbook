@@ -22,10 +22,10 @@
 | **Amount Donated** | Total amount donated by customer. |
 | **Campaigns** | Name of the campaign. |
 | **City** | Customer's city of residence. |
-| **Customer Info** | Optional additional customer information. |
+| **Customer Info** | Name or other information printed on the ticket.  |
 | **Email** | E-Mail address of the customer. |
 | **Event Date/Time** | Date and time the event will begin. |
-| **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
+| **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified By** | Name of who modified the change. |
 | **Last Name** | Last name of the customer who purchased the order. |
@@ -34,7 +34,7 @@
 | **Order Notes** | Notes left during POS by box office employee. |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Purchase Date** | Date and time the order was processed.|
-| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
+| **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **Sales Location** | "POS" (Point of Sale) for tickets purchased through the box office. "Internet" for tickets purchased at home by customers.|
 | **Seats** | Seats the customers purchased. |
 | **State** | State the customer lives in. |

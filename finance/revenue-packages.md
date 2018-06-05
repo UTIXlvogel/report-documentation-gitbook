@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Start Date** | Date the report will start gathering information from. |
 

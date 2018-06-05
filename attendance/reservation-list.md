@@ -16,9 +16,9 @@ description: >-
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Sale Location** | Location the sale was processed. |
-| **Sales Channel** | "POS" \(Point of Sale\) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
+| **Sales Channel** | POS (Point of Sale) for tickets sold by an administrator. WEB for tickets purchased on the internet via self-service. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
@@ -28,25 +28,25 @@ description: >-
 | **Column** | **Definition** |
 | --- | --- |
 | **City** | Customer's city of residence. |
-| **Customer Info** | Optional additional customer information. |
+| **Customer Info** | Name or other information printed on the ticket.  |
 | **Email** | E-Mail address of the customer. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Event the tickets were purchased for. |
-| **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
+| **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Mailing Address** | Mailing address of the customer who purchased the order. |
-| **Order Notes** | Additional notes the box office would like to note specific to the order. For example, donor, reason for a discount, or a check number. |
-| **Package Name** | Single or subscriber. |
+| **Order Notes** | Additional information an administrator attaches to the order. For example: Check number, special seating needs, reason for discounts/surcharge, etc. |
+| **Package Name** | Single ticket purchase or package purchase. |
 | **Phone** | Customer's phone number. |
 | **Postal Code** | Zip/postal code of the customer's city. |
 | **Purchase Date** | Date and time the order was processed. |
-| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
+| **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **Sale Location** | Location the sale was processed. |
 | **Seats** | Venue, section, row, and seat number of the seats purchased in the order. |
 | **State** | Customer's state of residence. |
-| **Ticket Number** | The tickets in an order are each given a number. For an order of three tickets they will be numbered 1, 2, and 3 on this report. |
+| **Ticket Number** | Every ticket in an order is assigned a number. Tickets for the same event and ticket type will receive in ascending number (i.e. 1,2,3) |
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

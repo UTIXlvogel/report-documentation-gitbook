@@ -10,7 +10,7 @@
 | **Include Item Name** | Event Name |
 | **Include Order Charges** | Include Order Charges in the report. |
 | **Include Ticket Type** | Include Ticket Type in the report fields. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Show Archived Data** | Events in the past. |
 | **Start Date** | Date the report will start gathering information from. |
 

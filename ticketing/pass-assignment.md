@@ -7,7 +7,7 @@
 | **Category** | Category the event is listed within. |
 | **Event** | Event the tickets were purchased for. |
 | **Include Unassigned Tickets** | Include Unassigned tickets in the report. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Pass ID End \#** | Number the Pass ID stops gathering information from. |
 | **Pass ID Start \#** | Number the Pass ID starts gathering information from.  |
 | **Show Archived Data** | Events in the past. |
@@ -21,7 +21,7 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Level Designation** | Level of the reserved ticket. |
 | **Pass ID** | Unique player pass number for student.|
-| **Record Locator** | A unique series of letters assigned to an order for easy lookup. |
+| **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **Row Destination** | Row of the reserved ticket. |
 | **Section Designation** | Section of the reserved ticket. |
 | **Seat Designation** | Seat number of the reserved ticket. |

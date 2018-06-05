@@ -15,7 +15,7 @@
 | **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
 | **Campaigns** | Name of the campaign. |
 | **Email** | E-Mail address of the customer. |
-| **External ID** | This is imported from your data feed. It is usually a Student ID number; or some other ID number. |
+| **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Option** | Name used when creating Campaign Options. |

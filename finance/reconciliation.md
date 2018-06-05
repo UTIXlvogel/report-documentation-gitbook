@@ -9,7 +9,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for. |
 | **Include Order Charges** | Include Order Charges in the report. |
-| **Package** | Single or subscriber. |
+| **Package** | Single ticket purchase or package purchase. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Start Date** | Date the report will start gathering information from. |

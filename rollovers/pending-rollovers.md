@@ -23,7 +23,7 @@
 | **Phone** | Customer's phone number.|
 | **Postal Code \(Shipping\)** |Zip/postal code of the customer's city.|
 | **Rollover Name** | Name of the Rollover. |
-| **Seat** | Seat number/letter that the customer purchased |
+| **Seat** | Seat number that the customer purchased. |
 | **State \(Shipping\)** | Customer's state of residence.|
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
 
