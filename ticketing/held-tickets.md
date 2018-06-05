@@ -5,14 +5,14 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
-| **Show Archived Data** | Events in the past. |
+| **Event** |Name of Event.|
+| **Show Archived Data** | Include events that have been archived. |
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **Held Seats** | Amount of seats held. |
 | **Hold Type** | Hold Type used to hold the seat. |
 | **Section** | Section of the venue the customer's seats are located in. |

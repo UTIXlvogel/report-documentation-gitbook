@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | Minimum Tickets | Minimum tickets purchased for the event or package to begin the reporting. |
 | Show Archived Data | Include events in the past.|
 

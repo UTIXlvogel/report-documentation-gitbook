@@ -5,12 +5,12 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Include Unassigned Tickets** | Include Unassigned tickets in the report. |
 | **Package** | Single ticket purchase or package purchase. |
 | **Pass ID End \#** | Number the Pass ID stops gathering information from. |
 | **Pass ID Start \#** | Number the Pass ID starts gathering information from.  |
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 
 ## Results
 

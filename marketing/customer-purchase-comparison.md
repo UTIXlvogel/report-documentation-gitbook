@@ -6,7 +6,7 @@
 | --- | --- |
 | And | If the customers purchase was in one event "And" another.|
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | In | If the customers purchase was in one event and also "In" another.  |
 | Not In | If the customers purchase was in one event but "Not In' another. | 
 | Or | If the customers purchase was in one event "Or"' another.|

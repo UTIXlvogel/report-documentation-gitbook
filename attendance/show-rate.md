@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 
 ## Results
 
@@ -13,7 +13,7 @@
 | --- | --- |
 | **Available Seats** |Total amount of seats available for an event. |
 | **Category Name** | Name of the category the event is listed within.|
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **Reservations** | Total amount of tickets sold for an event. |
 | **Scan Count** | Total number of tickets scanned for an event. |
 | **Scan Rate \(%\)** | Percentage of tickets scanned of the total number of available tickets for the event. |

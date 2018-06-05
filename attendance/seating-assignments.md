@@ -11,7 +11,7 @@ description: >-
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Option** | Ticket Option Name |
 | **Section** | Section to view |
 | **Switch to Text View** | Change the data from Graphical View to Text View |

@@ -7,9 +7,9 @@
 | **Category** | Category the event is listed within. |
 | **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Picked Up** | Whether the tickets were picked up. |
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results
@@ -21,7 +21,7 @@
 | **City** | Customer's city of residence. |
 | **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **E-mail** | E-Mail address of the customer. |
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **Event Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |

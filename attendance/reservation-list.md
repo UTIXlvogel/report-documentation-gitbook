@@ -15,7 +15,7 @@ description: >-
 | **Category** | Category the event is listed within. |
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Package** | Single ticket purchase or package purchase. |
 | **Sale Location** | Location the sale was processed. |
 | **Sales Channel** | POS (Point of Sale) for tickets sold by an administrator. WEB for tickets purchased on the internet via self-service. |
@@ -31,7 +31,7 @@ description: >-
 | **Customer Info** | Name or other information printed on the ticket.  |
 | **Email** | E-Mail address of the customer. |
 | **Event Date/Time** | Date and time the event will begin. |
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |

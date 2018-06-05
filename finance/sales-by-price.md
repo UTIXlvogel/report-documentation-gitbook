@@ -6,12 +6,12 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Include Item Name** | Event Name |
 | **Include Order Charges** | Include Order Charges in the report. |
 | **Include Ticket Type** | Include Ticket Type in the report fields. |
 | **Package** | Single ticket purchase or package purchase. |
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

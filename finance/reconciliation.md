@@ -7,14 +7,14 @@
 | **Category** | Category the event is listed within. |
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Include Order Charges** | Include Order Charges in the report. |
 | **Package** | Single ticket purchase or package purchase. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Show Account Number in Totals by Payment Method** | Include Account Number in Totals by Payment Method. |
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Show Payment Method in Totals by Item** | Include Payment Method in Total by Item. |
 
 ## Results

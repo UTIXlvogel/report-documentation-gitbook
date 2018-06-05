@@ -8,7 +8,7 @@
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Event the tickets were purchased for.|
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results
@@ -16,7 +16,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Date/Time** | Date and time the order was placed.|
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |
 | **Last Name** | Last name of the customer who purchased the order. |

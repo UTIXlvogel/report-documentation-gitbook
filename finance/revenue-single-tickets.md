@@ -7,9 +7,9 @@
 | **Category** | Category the event is listed within. |
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
-| **Show Archived Data** | Events in the past. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results
@@ -20,7 +20,7 @@
 | **Conv. Fee** | Total customer convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Event Date/Time** | Date and time the event will begin. |
-| **Event Name** | Event the tickets were purchased for. |
+| **Event Name** | Name of Event.|
 | **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Qty** | Total number of reservations. |

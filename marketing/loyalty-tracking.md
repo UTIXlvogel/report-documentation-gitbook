@@ -7,7 +7,7 @@
 | **Category** | Category the event is listed within. |
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | Package | Single or subscriber.|
 | Show Archived Data | Include events in the past.|
 | **Start Date** | Date the report will start gathering information from. |

@@ -13,7 +13,7 @@ description: >-
 | **Category** | Category the event is listed within. |
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **Picked Up** | Were the tickets picked up: Yes, No, or Both |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
@@ -24,7 +24,7 @@ description: >-
 | **Column** | **Definition** |
 | --- | --- |
 | **Email** | E-Mail address of the customer. |
-| **Event** | Event the tickets were purchased for. |
+| **Event** |Name of Event.|
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Picked Up** | Were the Tickets picked up: Yes or No. |
