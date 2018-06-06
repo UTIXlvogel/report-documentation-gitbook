@@ -17,7 +17,7 @@
 | Address \#2 \(Shipping\) | An optional second line for the customer's address. |
 | City \(Shipping\) | Customer's city of residence.|
 | Date Created | Date the customer was added to the system.|
-| E-mail/Login | Customer's email address; entered when they signed up on the site. A placeholder of NoEmail or NoEM will be entered if no email was provided for a POS transaction.|
+| E-mail/Login | E-Mail address of the customer. |
 | First Name \(Billing\) | First name on the customer's credit card or check.|
 | First Name \(Shipping\) | First name used for shipping the customer their tickets.|
 | Last Name \(Billing\) | Last name on the customer's credit card or check|
@@ -27,5 +27,5 @@
 | Postal Code \(Shipping\) | Zip/postal code of the customer's city.|
 | State \(Shipping\) | Customer's State of residence.|
 | Tickets | Number of tickets the customer purchased for the selected report. |
-| User Type | Category the customer has been assigned (Student, General Public, Senior)|
+| User Type | User Types are a classification of user and control which ticket types they can purchase. |
 
