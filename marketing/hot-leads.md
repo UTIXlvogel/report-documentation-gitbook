@@ -6,7 +6,7 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** |Name of Event.|
-| Minimum Tickets | Minimum tickets purchased for the event or package to begin the reporting. |
+| Minimum Tickets |Minimum tickets purchased for the event or Category to include in the results. |
 | Show Archived Data | Include events in the past.|
 
 ## Results
@@ -26,6 +26,6 @@
 | Phone | Customer's phone number.|
 | Postal Code \(Shipping\) | Zip/postal code of the customer's city.|
 | State \(Shipping\) | Customer's State of residence.|
-| Tickets | Number of tickets the customer purchased for the selected report. |
+| Tickets | Number of tickets the customer purchased. |
 | User Type | User Types are a classification of user and control which ticket types they can purchase. |
 

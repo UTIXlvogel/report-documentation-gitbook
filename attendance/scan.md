@@ -11,7 +11,7 @@ description: >-
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Display** | Ability to select desired data from. |
+| **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
 | **Picked Up** | Picked UP - Were the tickets picked up: Yes or No |

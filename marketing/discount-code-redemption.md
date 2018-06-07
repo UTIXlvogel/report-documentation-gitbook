@@ -22,6 +22,6 @@
 | Discount Code | Code entered at POS or WEB check out that resulted in the discount. |
 | **Email** | E-Mail address of the customer. |
 | Item | Name of the event. |
-| Record Locator | A unique series of letters and numbers assigned to an order for easy lookup.|
-| Redemption | Amount of times the discount code was applied to the order. |
+| Record Locator | A unique series of 6 letters assigned to an order.|
+| Redemption |Number of tickets that the discount code was applied to. |
 

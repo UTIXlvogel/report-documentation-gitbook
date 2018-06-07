@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Display** | Ability to select desired data from. |
+| **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
 | **Sales Channel** | "POS" (Point of Sale) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
