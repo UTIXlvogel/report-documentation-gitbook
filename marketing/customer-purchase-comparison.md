@@ -4,13 +4,13 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| And | If the customers purchase was in one event "And" another.|
+| And | Inclusive of both search criteria.|
 | **Category** | Category the event is listed within. |
 | **Event** |Name of Event.|
-| In | If the customers purchase was in one event and also "In" another.  |
-| Not In | If the customers purchase was in one event but "Not In' another. | 
-| Or | If the customers purchase was in one event "Or"' another.|
-| Package | Single or subscriber.|
+| In |  If the customers purchase was in the search criteria. |
+| Not In | If the customers purchase was not in the search criteria. | 
+| Or | Inclusive of either search criteria. |
+| Package | Single ticket purchase or package purchase.|
 | Show Archived Data | Include events in the past.|
 
 ## Results

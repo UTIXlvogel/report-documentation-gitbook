@@ -8,7 +8,7 @@
 | **Display** | Ability to select desired data from. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
-| Package | Single or subscriber.|
+| Package | Single ticket purchase or package purchase.|
 | Show Archived Data | Include events in the past.|
 | **Start Date** | Date the report will start gathering information from. |
 | Ticket State | Filter ticket status by: Purchased/Reserved only or Scanned. |

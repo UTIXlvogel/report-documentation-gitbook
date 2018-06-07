@@ -8,7 +8,7 @@
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
-| Package | Single or subscriber.|
+| Package | Single ticket purchase or package purchase.|
 | Show Archived Data | Include events in the past.|
 | Customer Name | Show only users with purchase history. |
 | **Start Date** | Date the report will start gathering information from. |
