@@ -20,7 +20,7 @@
 | E-mail | E-Mail address of the customer.|
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
-| Loyalty Points | Total amount of loyalty points this specific customer has accumulated across all categories/events selected. |
-| Rank | Rank is assigned to the customer based on how many Loyalty Points they have. The more points they have, the higher their rank. |
+| Loyalty Points | Quantity of points earned/deducted. |
+| Rank | Ordering of customer based on current loyalty point totals. |
 | User Type | User Types are a classification of user and control which ticket types they can purchase. |
 

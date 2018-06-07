@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
-| **Include Item Name** | Event Name |
+| **Include Item Name** | Show name of Event, Donation, Deposit, Package, or Order Charge. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results
@@ -15,5 +15,5 @@
 | **Item** | Event Name |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |
-| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
+| **Total** | Total amount (dollars). |
 

@@ -7,7 +7,7 @@
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** |Name of Event.|
-| **Include Item Name** | Event Name |
+| **Include Item Name** | Show name of Event, Donation, Deposit, Package, or Order Charge. |
 | **Include Order Charges** | Include Order Charges in the report. |
 | **Include Ticket Type** | Include Ticket Type in the report fields. |
 | **Package** | Single ticket purchase or package purchase. |
@@ -26,5 +26,5 @@
 | **Price** | Price paid for the seat by the customer. |
 | **Qty** | Total number of reservations. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
+| **Total** | Total amount (dollars). |
 

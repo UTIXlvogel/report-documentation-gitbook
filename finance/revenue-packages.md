@@ -20,5 +20,5 @@
 | **Packages Sold** | Total number of packages sold. |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
+| **Total** | Total amount (dollars). |
 

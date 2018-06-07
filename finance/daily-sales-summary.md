@@ -24,5 +24,5 @@
 | **Credit Card / POS** | Total of all sales purchased at the box office with their credit cards on the corresponding date. |
 | **Credit Card / WEB** | Total of all sales purchased by customers at home with their credit cards on the corresponding date |
 | **Payment Date** | Date the sales occurred on.  |
-| **Total** | Total of ALL payment methods (Credit cards, cash, and checks) for the corresponding date. |
+| **Total** | Total amount (dollars). |
 
