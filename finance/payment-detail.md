@@ -13,7 +13,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
+| **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Date/Time** | Date and time the order was placed.|
 | **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |

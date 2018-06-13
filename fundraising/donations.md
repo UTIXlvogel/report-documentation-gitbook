@@ -12,7 +12,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Account Number** | Account number associated with Event or Package. All revenue is tied to the event account number. |
+| **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Campaigns** | Name of the campaign. |
 | **Email** | E-Mail address of the customer. |
 | **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
