@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Campaigns** | Name of the campaign. |
-| **Search Criteria** | | Name or Email.  |
+| **Search Criteria** | Name or Email.  |
 | **Year** | The year the report will run data for. |
 
 ## Results
