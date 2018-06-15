@@ -36,7 +36,7 @@
 | **Purchase Date** | Date and time the order was processed.|
 | **Record Locator** | A unique series of 6 letters assigned to an order. |
 | **Sales Location** | "POS" (Point of Sale) for tickets purchased through the box office. "Internet" for tickets purchased at home by customers.|
-| **Seats** | Seats the customers purchased. |
+
 | **State** | State the customer lives in. |
 | **Ticket Number** | Amount of tickets purchased. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |

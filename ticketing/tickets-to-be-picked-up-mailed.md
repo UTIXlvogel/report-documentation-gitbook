@@ -30,6 +30,6 @@
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |
 | **Record Locator** | A unique series of 6 letters assigned to an order. |
-| **Seats** | Seats the customers purchased. |
+
 | **State** | State the customer lives in. |
 
