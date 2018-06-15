@@ -31,7 +31,7 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Mailing Address** | Mailing address of the customer who purchased the order. |
 | **Option** | Name used when creating Campaign Options. |
-| **Order Notes** | Notes left during POS by box office employee. |
+| **Order Notes** |Additional information an administrator attaches to the order. For example: Check number, special seating needs, reason for discounts/surcharge, etc. |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Purchase Date** | Date and time the order was processed.|
 | **Record Locator** | A unique series of 6 letters assigned to an order. |
