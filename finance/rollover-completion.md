@@ -15,7 +15,7 @@
 | **Address \#2 \(Shipping\)** | Optional second line for the customer's address.|
 | **City \(Shipping\)** | Customer's city of residence.|
 | **Date Created** | Date the customer was added to the system.|
-| **E-mail/Login** | Customer's email address; entered when they signed up on the site. A placeholder of NoEmail or NoEM will be entered if no email was provided for a POS transaction.|
+| **E-mail/Login** | E-Mail address of the customer.|
 | **First Name \(Billing\)** |  First name on the customer's credit card or check.|
 | **First Name \(Shipping\)** | First name used for shipping the customer their tickets.|
 | **Last Name \(Billing\)** | Last name on the customer's credit card or check.|

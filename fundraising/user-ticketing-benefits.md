@@ -4,7 +4,7 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Benefits** | Definition |
+| **Benefits** | Name of the Benefit. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Limit Type** | Filter limit type by: Per System, Per Event, or Both. |
 | **Start Date** | Date the report will start gathering information from. |
