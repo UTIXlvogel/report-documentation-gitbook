@@ -18,5 +18,5 @@
 | **Date** | Date of event or update. |
 | **Returns** | Total number of tickets returned. |
 | **Sales** | Total number of sales. |
-| **Total** | Total amount (dollars). |
+| **Total** | Total amount (dollars or quantity). |
 

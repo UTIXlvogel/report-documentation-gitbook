@@ -17,5 +17,5 @@
 | --- | --- |
 | **Charge Type** | Type of charge. Some examples are: Deposits, Delivery Fee, Convenience Fee, Manual Credit.  |
 | **Payment Method** | The method of payment given by the customer: Cash, Credit, or Check. |
-| **Total** | Total amount (dollars). |
+| **Total** | Total amount (dollars or quantity). |
 

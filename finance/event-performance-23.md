@@ -24,4 +24,4 @@
 | **Qty Unscanned** | Total of tickets sold that were not scanned for the event. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-| **Total** | Total amount (dollars). |
+| **Total** | Total amount (dollars or quantity). |

@@ -15,5 +15,5 @@
 | **Item** | Event Name |
 | **Postal Code** | Postal Code of the customer who purchased the order.|
 | **Qty** | Total number of reservations. |
-| **Total** | Total amount (dollars). |
+| **Total** | Total amount (dollars or quantity). |
 
