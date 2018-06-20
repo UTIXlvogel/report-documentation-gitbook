@@ -17,7 +17,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
-| **Conv. Fee** | Total customer convenience fees added to tickets. |
+| **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Name of Event.|

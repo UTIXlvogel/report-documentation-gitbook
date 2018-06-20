@@ -13,7 +13,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Conv. Fee** | Total customer convenience fees added to tickets. |
+| **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
 | **Package Name** | Name of the Package the tickets were purchased for. |

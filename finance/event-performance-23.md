@@ -14,7 +14,7 @@
 | **% Scanned** | Of the total tickets sold, the percentage of tickets scanned for the event. |
 | **% Unscanned** | Of the total tickets sold, the percentage of tickets not scanned for the event.|
 | **Amount** | Total amount of purchase. |
-| **Conv. Fee** | Total customer convenience fees added to tickets. |
+| **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts** | Discounts applied. |
 | **Gross Price** | 	Base price minus discounts, delivery fees, and customer convenience fees. |
 | **Order Charges** | Displays all order level charges contained within reporting criteria. |
