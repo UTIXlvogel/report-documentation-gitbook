@@ -20,7 +20,7 @@
 | --- | --- |
 | **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discount/Surcharges** | Discounts and surcharges applied. |
-| **Gross Price** | 	Base price minus discounts, delivery fees, and convenience fees. |
+| **Gross Price** | 	Total price before discounts/surcharges and convenience fees. |
 | **Item** | Event Name |
 | **Package Name** | Name of the Package the tickets were purchased for. |
 | **Price** | Price paid for the seat by the customer. |

@@ -21,7 +21,7 @@
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Name of Event.|
-| **Gross Price** | 	Base price minus discounts, delivery fees, and convenience fees. |
+| **Gross Price** | 	Total price before discounts/surcharges and convenience fees. |
 | **Payment Method** | The method of payment given by the customer. For Example: Cash, Credit, or Check. |
 | **Qty** | Total number of reservations. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
