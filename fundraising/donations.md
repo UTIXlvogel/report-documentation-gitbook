@@ -5,7 +5,7 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Campaigns** | Name of the campaign. |
-| **Search Criteria** | Name or Email.  |
+| **Search Criteria** | Name or Email. |
 | **Year** | The year the report will run data for. |
 
 ## Results
@@ -20,3 +20,4 @@
 | **Last Name** | Last name of the customer who purchased the order. |
 | **Option** | Name used when creating Campaign Options. |
 | **Total Donated Amount** | Total amount donated. |
+

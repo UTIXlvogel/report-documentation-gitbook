@@ -32,6 +32,7 @@
 * [Sales by Price](finance/sales-by-price.md)
 * [UTIX Fees](finance/utix-fees.md)
 * [Event Performance](finance/event-performance.md)
+* [Sales by Employee](finance/sales-by-employee.md)
 
 ## Fundraising
 

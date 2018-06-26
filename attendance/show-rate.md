@@ -5,15 +5,15 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **Category** | Category the event is listed within. |
-| **Event** |Name of Event.|
+| **Event** | Name of Event. |
 
 ## Results
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Available Seats** |Total amount of seats available for an event. |
-| **Category Name** | Name of the category the event is listed within.|
-| **Event Name** | Name of Event.|
+| **Available Seats** | Total amount of seats available for an event. |
+| **Category Name** | Name of the category the event is listed within. |
+| **Event Name** | Name of Event. |
 | **Reservations** | Total amount of tickets sold for an event. |
 | **Scan Count** | Total number of tickets scanned for an event. |
 | **Scan Rate \(%\)** | Percentage of tickets scanned of the total number of available tickets for the event. |

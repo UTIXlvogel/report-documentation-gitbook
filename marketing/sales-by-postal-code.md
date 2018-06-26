@@ -13,7 +13,7 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Item** | Event Name |
-| **Postal Code** | Postal Code of the customer who purchased the order.|
+| **Postal Code** | Postal Code of the customer who purchased the order. |
 | **Qty** | Total number of reservations. |
-| **Total** | Total amount (dollars or quantity). |
+| **Total** | Total amount \(dollars or quantity\). |
 

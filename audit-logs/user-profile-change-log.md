@@ -5,8 +5,8 @@
 | **Field** | **Definition** |
 | --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
-| **Include Deleted Users in Search** | Search to include deleted users.|
-| **Select a User** | Search by name or email address.|
+| **Include Deleted Users in Search** | Search to include deleted users. |
+| **Select a User** | Search by name or email address. |
 | **Start Date** | Date the report will start gathering information from. |
 
 ## Results

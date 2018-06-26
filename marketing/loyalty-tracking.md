@@ -7,9 +7,9 @@
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** |Name of Event.|
-| Package | Single ticket purchase or package purchase.|
-| Show Archived Data | Include events in the past.|
+| **Event** | Name of Event. |
+| Package | Single ticket purchase or package purchase. |
+| Show Archived Data | Include events in the past. |
 | **Start Date** | Date the report will start gathering information from. |
 | Ticket State | Filter ticket status by: Purchased/Reserved only or Scanned. |
 
@@ -17,7 +17,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| E-mail | E-Mail address of the customer.|
+| E-mail | E-Mail address of the customer. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Name** | Last name of the customer who purchased the order. |
 | Loyalty Points | Quantity of points earned/deducted. |

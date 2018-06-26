@@ -15,10 +15,10 @@ description: >-
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
-| **Event** |Name of Event.|
+| **Event** | Name of Event. |
 | **Package** | Single ticket purchase or package purchase. |
 | **Sale Location** | Location the sale was processed. |
-| **Sales Channel** | POS (Point of Sale) for tickets sold by an administrator. WEB for tickets purchased on the internet via self-service. |
+| **Sales Channel** | POS \(Point of Sale\) for tickets sold by an administrator. WEB for tickets purchased on the internet via self-service. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
@@ -28,10 +28,10 @@ description: >-
 | **Column** | **Definition** |
 | --- | --- |
 | **City** | Customer's city of residence. |
-| **Customer Info** | Name or other information printed on the ticket.  |
+| **Customer Info** | Name or other information printed on the ticket. |
 | **Email** | E-Mail address of the customer. |
 | **Event Date/Time** | Date and time the event will begin. |
-| **Event Name** | Name of Event.|
+| **Event Name** | Name of Event. |
 | **External ID** | Unique identifier, typically a student or faculty/staff ID number. |
 | **First Name** | First name of the customer who purchased the order. |
 | **Last Modified** | User who last sold, purchased, or modified the order. |
@@ -46,7 +46,7 @@ description: >-
 | **Sale Location** | Location the sale was processed. |
 | **Seats** | Venue, section, row, and seat number of the seats purchased in the order. |
 | **State** | Customer's state of residence. |
-| **Ticket Number** | Every ticket in an order is assigned a number. Tickets for the same event and ticket type will receive in ascending number (i.e. 1,2,3) |
+| **Ticket Number** | Every ticket in an order is assigned a number. Tickets for the same event and ticket type will receive in ascending number \(i.e. 1,2,3\) |
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
