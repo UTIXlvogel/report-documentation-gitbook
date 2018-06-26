@@ -19,5 +19,24 @@
 
 ## Results
 
-\| **Column** \| **Definition** \| \| --- \| --- \|
+### Totals by Payment Method
 
+| **Column** | **Definition** |
+| --- | --- |
+| **Item** |  |
+| ** Gross Price** |  |
+| ** Conv. Fee** |  |
+| ** Discounts/Surcharges** |  |
+| ** Total** |  |
+
+### Totals by Item
+
+| **Column** | **Definition** |
+| --- | --- |
+| **Item** |  |
+| ** Account Number** |  |
+| ** Qty** |  |
+| ** Gross Price** |  |
+| ** Conv. Fee** |  |
+| ** Discounts/Surcharges** |  |
+| **Total** |  |
