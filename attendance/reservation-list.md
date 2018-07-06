@@ -19,6 +19,7 @@ description: >-
 | **Package** | Single ticket purchase or package purchase. |
 | **Sale Location** | Location the sale was processed. |
 | **Sales Channel** | POS \(Point of Sale\) for tickets sold by an administrator. WEB for tickets purchased on the internet via self-service. |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
