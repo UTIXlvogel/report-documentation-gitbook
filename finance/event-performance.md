@@ -13,7 +13,7 @@
 | --- | --- |
 | **% Scanned** | Of the total tickets sold, the percentage of tickets scanned for the event. |
 | **% Unscanned** | Of the total tickets sold, the percentage of tickets not scanned for the event. |
-| **Amount** | Total amount of purchase. |
+| **Balance** |Balance due. |
 | **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts** | Discounts applied. |
 | **Gross Price** | Total price before discounts/surcharges and convenience fees. |

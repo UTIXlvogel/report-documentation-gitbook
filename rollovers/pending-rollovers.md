@@ -22,7 +22,7 @@
 | **Opt In** | "True" if the customer approved of receiving marketing materials; "False" if not. |
 | **Phone** | Customer's phone number. |
 | **Postal Code \(Shipping\)** | Zip/postal code of the customer's city. |
-| **Rollover Name** | Name of the Rollover. |
+| **Package Name** | Name of the Package. |
 | **Seat** | Seat location. |
 | **State \(Shipping\)** | Customer's state of residence. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

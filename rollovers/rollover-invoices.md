@@ -11,8 +11,8 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Amount** | Total amount of purchase. |
-| **Item Type** | Events included in invoice. |
-| **Rollover Name** | Name of the Rollover. |
-| **Seat Info** | Location of the reserved seat. |
+| **Balance** |Balance due. |
+| **Items Included** | Events included in package. |
+| **Package Name** | Name of the Package. |
+| **Seats** | Location of the seat. |
 
