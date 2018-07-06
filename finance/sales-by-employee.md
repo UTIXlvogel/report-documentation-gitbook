@@ -15,11 +15,11 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| ** Employee Name** |  |
-| **Item** |  |
-| **Ticket Type** |  |
-| **Qty** |  |
-| **Gross Price** |  |
-| **Conv. Fee** |  |
-| **Discounts/Surcharges** |  |
-| **Total** |  |
+| ** Employee Name** | Employee Name. |
+| **Item** | Event Name. |
+| **Ticket Type** | Ticket Types are a classifcation of ticket, most commonly used to differentiate pricing. |
+| **Qty** | Total number of reservations. |
+| **Gross Price** | Total price before discounts/surcharges and convenience fees. |
+| **Conv. Fee** | Total convenience fees added to tickets.  |
+| **Discounts/Surcharges** | Discounts and surcharges applied. |
+| **Total** | Total amount (dollars or quantity). |

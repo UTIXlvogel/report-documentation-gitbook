@@ -23,7 +23,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Item** |  |
+| **Item** | Event Name. |
 | ** Gross Price** |  |
 | ** Conv. Fee** |  |
 | ** Discounts/Surcharges** |  |
@@ -33,10 +33,10 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Item** |  |
+| **Item** | Event Name. |
 | ** Account Number** |  |
 | ** Qty** |  |
 | ** Gross Price** |  |
 | ** Conv. Fee** |  |
 | ** Discounts/Surcharges** |  |
-| **Total** |  |
+| **Total** | Total amount (dollars or quantity). |
