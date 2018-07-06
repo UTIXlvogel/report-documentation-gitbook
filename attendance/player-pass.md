@@ -8,6 +8,7 @@
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
 | **Start Date** | Date the report will start gathering information from. |
+| **Show Archived Data** | Include events that have been archived. |
 
 ## Results
 

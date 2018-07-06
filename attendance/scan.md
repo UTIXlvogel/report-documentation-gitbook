@@ -15,6 +15,7 @@ description: >-
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
 | **Picked Up** | Picked UP - Were the tickets picked up: Yes or No |
+| **Show Archived Data** | Include events that have been archived. |
 | **Start Date** | Date the report will start gathering information from. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |

@@ -6,6 +6,7 @@
 | --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
+| **Show Archived Data** | Include events that have been archived. |
 
 ## Results
 
