@@ -24,19 +24,19 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Item** | Event Name. |
-| ** Gross Price** |  |
-| ** Conv. Fee** |  |
-| ** Discounts/Surcharges** |  |
-| ** Total** |  |
+| ** Gross Price** | Total price before discounts/surcharges and convenience fees.  |
+| ** Conv. Fee** | Total convenience fees added to tickets. |
+| ** Discounts/Surcharges** | Total price before discounts/surcharges and convenience fees.  |
+| ** Total** | Total amount (dollars or quantity).  |
 
 ### Totals by Item
 
 | **Column** | **Definition** |
 | --- | --- |
 | **Item** | Event Name. |
-| ** Account Number** |  |
-| ** Qty** |  |
-| ** Gross Price** |  |
-| ** Conv. Fee** |  |
-| ** Discounts/Surcharges** |  |
+| ** Account Number** | Account number associated with item. Item revenue is tied to the account number. |
+| ** Qty** | Total number of reservations.  |
+| ** Gross Price** | Total price before discounts/surcharges and convenience fees.  |
+| ** Conv. Fee** | Total convenience fees added to tickets. |
+| ** Discounts/Surcharges** | Total price before discounts/surcharges and convenience fees.  |
 | **Total** | Total amount (dollars or quantity). |
