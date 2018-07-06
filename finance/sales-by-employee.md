@@ -4,10 +4,10 @@
 
 | **Field** | **Definition** |
 | --- | --- |
-| **Display** |  |
+| **Display** | View or presentation of data.  |
 | **End Date** | Date the report will stop gathering information from. |
-| **Employee** |  |
-| **Sale Location** |  |
+| **Employee** | Employee Name. |
+| **Sale Location** | Location the sale was processed.  |
 | **Show Payment Method in Detailed View by Item** |  |
 | **Start Date** | Date the report will start gathering information from. |
 
