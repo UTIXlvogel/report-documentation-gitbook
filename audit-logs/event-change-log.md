@@ -16,8 +16,8 @@
 | **Column** | **Definition** |
 | --- | --- |
 | **Action** | Defines what type of change was done. |
+| **Author** | Name of the person who modified the change. |
 | **Current Value** | Provides the updated information that was changed in the field. |
 | **Date** | Date of event or update. |
-| **Author** | Name of who modified the change. |
 | **Modify Field** | Field the change occurred in. |
 | **Previous Value** | Previous value the field was set to. |
