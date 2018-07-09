@@ -16,7 +16,7 @@
 | **Action** | Defines what type of change was done. |
 | **Current Value** | Provides the updated information that was changed in the field. |
 | **Date** | Date of event or update. |
-| **Last Modified By** | Name of who modified the change. |
+| **Author** | Name of who modified the change. |
 | **Modify Field** | Field the change occurred in. |
 | **Previous Value** | Previous value the field was set to. |
 
