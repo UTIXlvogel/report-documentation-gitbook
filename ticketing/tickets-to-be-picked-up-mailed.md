@@ -30,6 +30,6 @@
 | **Postal Code** | Postal Code of the customer who purchased the order. |
 | **Qty** | Total number of reservations. |
 | **Record Locator** | A unique series of 6 letters assigned to an order. |
-| **Reserved On**| Date and time the tickets were purchased. |
-| **State**| State the customer lives in.|
+| **Reserved On** | Date and time the tickets were purchased. |
+| **State** | State the customer lives in. |
 

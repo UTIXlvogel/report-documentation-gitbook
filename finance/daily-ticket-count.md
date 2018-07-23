@@ -19,3 +19,4 @@
 | **Returns** | Total number of tickets returned. |
 | **Sales** | Total number of sales. |
 | **Total** | Total amount \(dollars or quantity\). |
+

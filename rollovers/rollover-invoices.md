@@ -11,7 +11,7 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-| **Balance** |Balance due. |
+| **Balance** | Balance due. |
 | **Items Included** | Events included in package. |
 | **Package Name** | Name of the Package. |
 | **Seats** | Location of the seat. |

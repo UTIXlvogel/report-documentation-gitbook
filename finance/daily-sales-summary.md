@@ -25,3 +25,4 @@
 | **Credit Card / WEB** | Total of all sales purchased by customers at home with their credit cards on the corresponding date |
 | **Payment Date** | Date the sales occurred on. |
 | **Total** | Total amount \(dollars or quantity\). |
+

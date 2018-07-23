@@ -6,7 +6,7 @@
 
 * [By Criteria](reference/by-criteria.md)
 * [By Results](reference/by-results.md)
-* [Classic vs UTIX Differences](reference/classic-vs-utix-differences.md)
+* [Report Definitions](reference/report-definitions.md)
 
 ## Attendance
 
