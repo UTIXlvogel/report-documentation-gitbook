@@ -1,6 +1,10 @@
-# Waivers
+---
+description: >-
+  Provides the data for reservations that required a Waiver to be signed.
+  Includes the Event, Date and Time, Electronic Signature and users IP address.
+---
 
-Provides the data for reservations that required a Waiver to be signed. Includes the Event, Date and Time, Electronic Signature and users IP address.
+# Waivers
 
 ## Criteria
 
@@ -26,3 +30,4 @@ Provides the data for reservations that required a Waiver to be signed. Includes
 | **User IP** | The customers IP address used when completing the waiver. |
 | **Waiver Date** | Date and time the waiver was signed. |
 | **Waiver Name** | Name of the waiver the customer is agreeing to. |
+

@@ -1,13 +1,11 @@
 ---
-description: \>-
-  Provides you the list and details for everyone that has purchased tickets for
-  a specific Event(s) or Package - Use the Display drop-down to view Reservation
-  List with Custom Field or with Financials
+description: >-
+  Provides the list and details for each ticket that has been sold/issued for a
+  specific Category, Event, or Package - Use the Display drop-down to view
+  Reservation List with Custom Field or with Financ
 ---
 
 # Reservation List
-
-Provides the list and details for each ticket that has been sold/issued for a specific Category, Event, or Package - Use the Display drop-down to view Reservation List with Custom Field or with Financials
 
 ## Criteria
 
@@ -53,3 +51,4 @@ Provides the list and details for each ticket that has been sold/issued for a sp
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
+
