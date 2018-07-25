@@ -1,5 +1,7 @@
 # Show Rate
 
+Summary of ticket sales and scans by Ticket Type for events. This also includes the sell rate percentage, scan count, and scan percentage.
+
 ## Criteria
 
 | **Field** | **Definition** |
@@ -21,4 +23,3 @@
 | **Sell Rate \(%\)** | Percentage of tickets sold of the total number of available tickets for the event. |
 | **Ticket Option** | Ticket option name for General Admission events or the User Type for Assigned Seating events. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
-

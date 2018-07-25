@@ -1,10 +1,12 @@
 ---
-description: >-
+description: \>-
   For Assigned Seating Events.  Ability to view what seats are still available,
   as well as ones that are Reserved, including the Date, and the Record Locator.
 ---
 
 # Seating Assignments
+
+For Assigned Seating Events provides a map or list to show which seats are still available, as well as ones that are Reserved, including the Date and Record Locator.
 
 ## Criteria
 
@@ -31,4 +33,3 @@ description: >-
 | **Section** | Section of the venue the customer's seats are located in. |
 | **Status** | Status of the seat. "Held" if the seat is on hold by the box office. "Reserved" if the seat has been purchased. Blank if the seat is neither held nor purchased. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
-

@@ -1,10 +1,12 @@
 ---
-description: >-
+description: \>-
   Provides the data for tickets that were scanned for an Event.  Use the
   Display  drop-down to select Scanned in, Unscanned, or Summary Data.
 ---
 
 # Scan
+
+Provides the data for tickets that were scanned for an Event. Use the Display drop-down to select Scanned in, Unscanned, or Summary Data.
 
 ## Criteria
 
@@ -36,4 +38,3 @@ description: >-
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
-

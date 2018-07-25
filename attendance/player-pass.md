@@ -1,5 +1,7 @@
 # Player Pass
 
+List of guests first and last name that are granted complimentary tickets for a specific category and event. This includes the requester name, relationship to the guest, and date and time the request was made.
+
 ## Criteria
 
 | **Field** | **Definition** |
@@ -22,4 +24,3 @@
 | **Relationship** | Relationship of the named comp ticket receiver to the requester. |
 | **Requester** | Name of the player who requested the tickets. |
 | **Signature** | Signature of the receiver of tickets once claimed. |
-
