@@ -18,8 +18,8 @@
 
 | **Column** | **Definition** |
 | --- | --- |
-|  **Placeholder** | Placeholder |
-|  **Placeholder** | Placeholder |
-|  **Placeholder** | Placeholder |
-|  **Placeholder** | Placeholder |
+|  **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
+|  **Payment Card Type** | Credit Card type given by the customer: Visa, Mastercard, Discover, or American Express |
+|  **Payment Method** | The method of payment given by the customer. For Example: Cash, Credit, or Check. |
+|  **Total** | Total amount (dollars or quantity). |
 
