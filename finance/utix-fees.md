@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -13,6 +14,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Event Date/Time** | Date and time the event will begin. |
 | **Event Name** | Name of Event. |

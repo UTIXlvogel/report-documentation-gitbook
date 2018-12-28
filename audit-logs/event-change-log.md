@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
@@ -13,6 +14,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Action** | Defines what type of change was done. |
 | **Author** | Name of the person who modified the change. |
 | **Current Value** | Provides the updated information that was changed in the field. |

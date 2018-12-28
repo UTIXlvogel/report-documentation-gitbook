@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Employee** | Employee Name |
 | **End Date** | Date the report will stop gathering information from. |
@@ -17,6 +18,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Cash** | Total of all sales purchased with cash on the corresponding date. |
 | **Check** | Total of all sales purchased with check on the corresponding date. |
 | **Credit Card / POS** | Total of all sales purchased at the box office with their credit cards on the corresponding date. |

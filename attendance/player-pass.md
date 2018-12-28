@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -12,6 +13,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Date Requested** | Date and Time the cop tickets were requested. |
 | **Event** | Name of Event. |
@@ -20,3 +22,4 @@
 | **Relationship** | Relationship of the named comp ticket receiver to the requester. |
 | **Requester** | Name of the player who requested the tickets. |
 | **Signature** | Signature of the receiver of tickets once claimed. |
+

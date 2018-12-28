@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Benefits** | Name of the Benefit. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Limit Type** | Filter limit type by: Per System, Per Event, or Both. |
@@ -12,6 +13,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Benefit Name** | Name of the Benefit. |
 | **Email** | E-Mail address of the customer. |
 | **First Name** | First name of the customer who purchased the order. |

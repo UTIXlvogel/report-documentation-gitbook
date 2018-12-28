@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 | **Show Archived Data** | Include events that have been archived. |
@@ -10,6 +11,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **% Remaining** | Percentage of tickets remaining for the event. |
 | **% Reserved** | Percentage of tickets sold for the event. |
 | **Date** | Date of event or update. |

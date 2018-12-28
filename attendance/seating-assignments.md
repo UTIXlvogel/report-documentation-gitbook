@@ -1,7 +1,4 @@
 ---
-description: \>-
-  For Assigned Seating Events.  Ability to view what seats are still available,
-  as well as ones that are Reserved, including the Date, and the Record Locator.
 description: >-
   \>- For Assigned Seating Events.  Ability to view what seats are still
   available, as well as ones that are Reserved, including the Date, and the
@@ -13,6 +10,7 @@ description: >-
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 | **Option** | Ticket Option Name |
@@ -22,6 +20,7 @@ description: >-
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Venue Section & Status seat icons** | Graphical map of the venue. Status seat icons identify which color the seats represents: Status or Hold Types. Hover over the reserved seats to display the RL, Name, Date and time of purchase |
 | **Customer** | Name of customer who purchased tickets. |
 | **Date/Time** | Date/Time the ticket was purchased |
@@ -33,3 +32,4 @@ description: >-
 | **Section** | Section of the venue the customer's seats are located in. |
 | **Status** | Status of the seat. "Held" if the seat is on hold by the box office. "Reserved" if the seat has been purchased. Blank if the seat is neither held nor purchased. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
+

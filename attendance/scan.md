@@ -1,6 +1,4 @@
 ---
-description: \>-
-  Provides the data for tickets that were scanned for an Event.  Use the
 description: >-
   \>- Provides the data for tickets that were scanned for an Event.  Use the
   Display  drop-down to select Scanned in, Unscanned, or Summary Data.
@@ -11,6 +9,7 @@ description: >-
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -24,6 +23,7 @@ description: >-
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Email** | E-Mail address of the customer. |
 | **Event** | Name of Event. |
 | **First Name** | First name of the customer who purchased the order. |
@@ -36,3 +36,4 @@ description: >-
 | **Ticket Option** | Name of the ticket option built in the event. |
 | **Ticket Type** | Ticket Types are a classification of ticket, most commonly used to differentiate pricing. |
 | **User Type** | User Types are a classification of user and control which ticket types they can purchase. |
+

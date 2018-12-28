@@ -3,6 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -13,6 +14,7 @@
 ## Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Electronic Signature** | The name of the customer providing legal consent or approval on electronic documents or form by entering their name. |
 | **Email** | E-Mail address of the customer. |
 | **Event Name** | Name of Event. |
@@ -22,3 +24,4 @@
 | **User IP** | The customers IP address used when completing the waiver. |
 | **Waiver Date** | Date and time the waiver was signed. |
 | **Waiver Name** | Name of the waiver the customer is agreeing to. |
+

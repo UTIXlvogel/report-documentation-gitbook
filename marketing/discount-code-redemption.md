@@ -5,6 +5,7 @@
 ### Criteria
 
 | **Field** | **Definition** |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Discount Code** | Code entered at POS or WEB check out that resulted in the discount. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -20,6 +21,7 @@
 ### Results
 
 | **Column** | **Definition** |
+| :--- | :--- |
 | **Customer Name** | Name of the customer who purchased the order. |
 | **Date** | Date of event or update. |
 
