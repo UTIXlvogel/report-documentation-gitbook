@@ -3,7 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Charge Types** | Type of charge. Some examples are: Delivery Fee, Manual Discount/Surcharge, and Deposits. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -14,7 +14,7 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Charge Type** | Type of charge. Some examples are: Delivery Fee, Manual Discount/Surcharge, and Deposits. |
 | **Payment Method** | The method of payment given by the customer. For Example: Cash, Credit, or Check. |
 | **Total** | Total amount \(dollars or quantity\). |

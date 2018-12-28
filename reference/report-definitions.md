@@ -1,7 +1,7 @@
 # Report Definitions
 
 | **Report** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 |  **Player Pass** | List of guests first and last name that are granted complimentary tickets for a specific category and event. This includes the requester name, relationship to the guest, and date and time the request was made. |
 |  **Seating Assignments** | For Assigned Seating Events provides a map or list to show which seats are still available, as well as ones that are Reserved, including the Date and Record Locator. |
 |  **Reservation List** | Provides the list and details for each ticket that has been sold/issued for a specific Category, Event, or Package - Use the Display drop-down to view Reservation List with Custom Field or with Financials |

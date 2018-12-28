@@ -3,7 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -15,7 +15,7 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |

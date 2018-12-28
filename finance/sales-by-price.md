@@ -3,7 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -17,7 +17,7 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discount/Surcharges** | Discounts and surcharges applied. |
 | **Gross Price** | Total price before discounts/surcharges and convenience fees. |

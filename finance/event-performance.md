@@ -3,14 +3,14 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **% Scanned** | Of the total tickets sold, the percentage of tickets scanned for the event. |
 | **% Unscanned** | Of the total tickets sold, the percentage of tickets not scanned for the event. |
 | **Balance** | Balance due. |

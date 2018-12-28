@@ -1,15 +1,9 @@
----
-description: >-
-  Summary of ticket sales and scans by Ticket Type for events. This also
-  includes the sell rate percentage, scan count, and scan percentage.
----
-
 # Show Rate
 
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 | **Show Archived Data** | Include events that have been archived. |
@@ -17,7 +11,7 @@ description: >-
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Available Seats** | Total amount of seats available for an event. |
 | **Category Name** | Name of the category the event is listed within. |
 | **Event Name** | Name of Event. |

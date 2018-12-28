@@ -3,7 +3,7 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 | **Include Unassigned Tickets** | Include Unassigned tickets in the report. |
@@ -15,7 +15,7 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **First Name** | First name of the customer who purchased the order. |
 | **Item Name** | Name of Event, Donation, Deposit, Package, or Order Charge. |
 | **Last Name** | Last name of the customer who purchased the order. |

@@ -1,8 +1,8 @@
 ---
 description: >-
-  Provides the list and details for each ticket that has been sold/issued for a
-  specific Category, Event, or Package - Use the Display drop-down to view
-  Reservation List with Custom Field or with Financ
+  \>- Provides you the list and details for everyone that has purchased tickets
+  for a specific Event(s) or Package - Use the Display drop-down to view
+  Reservation List with Custom Field or with Financials
 ---
 
 # Reservation List
@@ -10,7 +10,7 @@ description: >-
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **Attributes** | User Attributes are tags assigned to an individual customer’s profile either \(a\) manually by an administrator or \(b\) automatically when the user purchases an event. These attributes can then be reported on and will also show during the Point of Sale process. |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
@@ -27,7 +27,7 @@ description: >-
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
+| :--- | :--- |
 | **City** | Customer's city of residence. |
 | **Customer Info** | Name or other information printed on the ticket. |
 | **Email** | E-Mail address of the customer. |
