@@ -45,12 +45,13 @@
 * Ticket Inventory
 * Tickets to be Picked Up/Mailed
 * Return/Exchange History
+* Pass Assignment
 
 ## Charge Types
 
 * Order Level Charges
 
-## Delivery Option
+## Delivery Method
 
 * Tickets to be Picked Up/Mailed
 
@@ -100,6 +101,10 @@
 * Sales by Postal Code
 * Tickets to be Picked Up/Mailed
 * Return/Exchange History
+* Account Code Summary Report
+* Rollover Change Log
+* Event Change Log
+* User Profile Change Log
 
 ## Event
 
@@ -131,6 +136,10 @@
 
 * Customer Purchase Comparison
 
+## Include Deleted Users in Search
+
+* User Profile Change Log
+
 ## Include Item Name
 
 * Sales by Price
@@ -145,6 +154,10 @@
 ## Include Ticket Type
 
 * Sales by Price
+
+## Include Unassigned Tickets
+
+* Pass Assignment
 
 ## Limit Type
 
@@ -183,12 +196,13 @@
 * Customer Purchase Comparison
 * Discount Code Redemption
 * Loyalty Tracking
+* Pass Assignment
 
-## Pass ID End \
+## Pass ID End \\
 
 * Pass Assignment
 
-## Pass ID Start \
+## Pass ID Start \\
 
 * Pass Assignment
 
@@ -267,6 +281,32 @@
 * Ticket Inventory
 * Tickets to be Picked Up/Mailed
 * Return/Exchange History
+* Reservation List
+* Scan
+* Show Rate
+* Waivers
+* Player Passes
+* Rollover Change Log
+* Event Change Log
+
+## Show Archived Events
+
+* Event Change Log
+
+## Show Deleted Events
+
+* Event Change Log
+
+## Show Archived Rollovers
+
+* Rollover Change Log
+
+## Show Deleted Rollovers
+
+* Rollover Change Log
+
+## Select a User
+* User Profile Change Log
 
 ## Show only users with purchase history
 
@@ -306,6 +346,10 @@
 * Sales by Postal Code
 * Tickets to be Picked Up/Mailed
 * Return/Exchange History
+* Account Code Summary Report
+* Rollover Change Log
+* Event Change Log
+* User Profile Change Log 
 
 ## Ticket State
 
@@ -316,6 +360,7 @@
 * Reservation List
 * Scan
 * Donations with Custom Fields
+* Customer Marketing
 
 ## Ticket Type Granted
 
@@ -328,7 +373,10 @@
 * Donations with Custom Fields
 * Customer Marketing
 
+## User
+
+* Rollover Invoice
+
 ## Year
 
 * Donations
-

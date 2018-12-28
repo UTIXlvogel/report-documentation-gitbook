@@ -217,9 +217,11 @@
 * Scan
 * Player Pass
 * Ticketing
+* Active Event List Report
 
 ## Event Begin Date/Time
 
+* Active Event List Report
 * Ticketing
 
 ## Event Date/Time
@@ -568,7 +570,7 @@
 
 ## Row
 
-* Seating Assignments 
+* Seating Assignments
 
 ## Row Designation
 
@@ -681,8 +683,9 @@
 * Revenue Single Tickets
 * Event Performance
 
-  **Tickets Sold**
+##  Tickets Sold
 
+* Active Event List Report
 * Ticketing
 * Ticket Inventory
 
@@ -728,12 +731,6 @@
 
 * Payment Detail
 
-  **User Type**
-
-* Reservation List
-* Scan
-* Seating Assignments
-
 ## User IP
 
 * Waivers
@@ -747,6 +744,9 @@
 * Hot Leads
 * Loyalty Tracking
 * Pending Rollovers
+* Reservation List
+* Scan
+* Seating Assignments
 
 ## UTIX Fees
 
@@ -778,4 +778,3 @@
 ## Waiver Name
 
 * Waivers
-
