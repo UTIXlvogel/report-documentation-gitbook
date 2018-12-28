@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Delivery Option** | How the tickets were chosen to be delivered to the customer. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -15,7 +14,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Address 1** | Address line one of the customer's mailing address. |
 | **Address 2** | Address line two of the customer's mailing address. |
 | **City** | Customer's city of residence. |

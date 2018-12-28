@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -22,7 +21,6 @@
 ### Totals by Payment Method
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Item** | Event Name. |
 |  **Gross Price** | Total price before discounts/surcharges and convenience fees. |
 |  **Conv. Fee** | Total convenience fees added to tickets. |
@@ -32,7 +30,6 @@
 ### Totals by Item
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Item** | Event Name. |
 |  **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 |  **Qty** | Total number of reservations. |

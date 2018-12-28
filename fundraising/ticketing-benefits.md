@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Start Date** | Date the report will start gathering information from. |
 

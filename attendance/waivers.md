@@ -1,11 +1,8 @@
 # Waivers
 
-Provides the data for reservations that required a Waiver to be signed. Includes the Event, Date and Time, Electronic Signature and users IP address.
-
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -16,7 +13,6 @@ Provides the data for reservations that required a Waiver to be signed. Includes
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Electronic Signature** | The name of the customer providing legal consent or approval on electronic documents or form by entering their name. |
 | **Email** | E-Mail address of the customer. |
 | **Event Name** | Name of Event. |

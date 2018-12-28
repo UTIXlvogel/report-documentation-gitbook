@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -14,7 +13,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Date/Time** | Date and time the order was placed. |
 | **Event Name** | Name of Event. |
 | **First Name** | First name of the customer who purchased the order. |

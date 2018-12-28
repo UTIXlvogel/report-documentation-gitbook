@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -14,7 +13,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Date** | Date of event or update. |
 | **Returns** | Total number of tickets returned. |
 | **Sales** | Total number of sales. |

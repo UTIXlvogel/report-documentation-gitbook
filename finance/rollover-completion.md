@@ -3,14 +3,12 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Order Status** | Status of order: Paid, Unpaid, Both |
 | **Rollovers** | Name of the rollover. |
 
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Address \(Shipping\)** | Customer's address; for shipping them their tickets. |
 | **Address \#2 \(Shipping\)** | Optional second line for the customer's address. |
 | **City \(Shipping\)** | Customer's city of residence. |

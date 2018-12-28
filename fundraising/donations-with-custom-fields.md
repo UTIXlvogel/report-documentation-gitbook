@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Attributes** | User Attributes are tags assigned to an individual customer’s profile either \(a\) manually by an administrator or \(b\) automatically when the user purchases an event. These attributes can then be reported on and will also show during the Point of Sale process. |
 | **Campaigns** | Name of the campaign. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -17,7 +16,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Amount Donated** | Total amount donated by customer. |
 | **Campaigns** | Name of the campaign. |

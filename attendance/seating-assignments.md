@@ -2,16 +2,17 @@
 description: \>-
   For Assigned Seating Events.  Ability to view what seats are still available,
   as well as ones that are Reserved, including the Date, and the Record Locator.
+description: >-
+  \>- For Assigned Seating Events.  Ability to view what seats are still
+  available, as well as ones that are Reserved, including the Date, and the
+  Record Locator.
 ---
 
 # Seating Assignments
 
-For Assigned Seating Events provides a map or list to show which seats are still available, as well as ones that are Reserved, including the Date and Record Locator.
-
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Event** | Name of Event. |
 | **Option** | Ticket Option Name |
@@ -21,7 +22,6 @@ For Assigned Seating Events provides a map or list to show which seats are still
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Venue Section & Status seat icons** | Graphical map of the venue. Status seat icons identify which color the seats represents: Status or Hold Types. Hover over the reserved seats to display the RL, Name, Date and time of purchase |
 | **Customer** | Name of customer who purchased tickets. |
 | **Date/Time** | Date/Time the ticket was purchased |

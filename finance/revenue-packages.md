@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Package** | Single ticket purchase or package purchase. |
 | **Sales Channel** | "POS" \(Point of Sale\) for tickets purchased through the box office. "WEB" for tickets purchased at home by customers. |
@@ -12,7 +11,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Conv. Fee** | Total convenience fees added to tickets. |
 | **Discounts/Surcharges** | Discounts and surcharges applied. |
 | **Gross Price** | Total price before discounts/surcharges and convenience fees. |

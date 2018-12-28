@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Employee** | Employee Name. |
@@ -14,7 +13,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 |  **Employee Name** | Employee Name. |
 | **Item** | Event Name. |
 | **Ticket Type** | Ticket Types are a classifcation of ticket, most commonly used to differentiate pricing. |

@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Include Deleted Users in Search** | Search to include deleted users. |
 | **Select a User** | Search by name or email address. |
@@ -12,7 +11,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Action** | Defines what type of change was done. |
 | **Current Value** | Provides the updated information that was changed in the field. |
 | **Date** | Date of event or update. |

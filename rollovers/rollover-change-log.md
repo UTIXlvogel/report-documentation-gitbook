@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **End Date** | Date the report will stop gathering information from. |
 | **Rollover** | Package that had rollovers. |
 | **Show Archived Rollover** | Include rollovers in the past. |
@@ -14,7 +13,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Action** | Defines what type of change was done. |
 | **Current Value** | Provides the updated information that was changed in the field. |
 | **Date** | Date of event or update. |

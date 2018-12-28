@@ -3,7 +3,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Event** | Name of Event. |
 | **Event Begin Date/Time** | Date and time the event will begin. |
 | **Sales Begin Date/Time** | Date and time the event's internet sales will begin. |

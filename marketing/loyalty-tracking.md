@@ -5,7 +5,6 @@
 ### Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Display** | View or presentation of data. |
 | **End Date** | Date the report will stop gathering information from. |
@@ -21,7 +20,6 @@
 ### Results
 
 | **Column** | **Definition** |
-| --- | --- |
 
 
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream

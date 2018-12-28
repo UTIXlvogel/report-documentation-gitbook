@@ -3,7 +3,6 @@
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Campaigns** | Name of the campaign. |
 | **Search Criteria** | Name or Email. |
 | **Year** | The year the report will run data for. |
@@ -11,7 +10,6 @@
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Account Number** | Account number associated with item. Item revenue is tied to the account number. |
 | **Campaigns** | Name of the campaign. |
 | **Email** | E-Mail address of the customer. |

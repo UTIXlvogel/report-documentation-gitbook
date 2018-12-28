@@ -1,11 +1,8 @@
 # Player Pass
 
-List of guests first and last name that are granted complimentary tickets for a specific category and event. This includes the requester name, relationship to the guest, and date and time the request was made.
-
 ## Criteria
 
 | **Field** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **End Date** | Date the report will stop gathering information from. |
 | **Event** | Name of Event. |
@@ -15,7 +12,6 @@ List of guests first and last name that are granted complimentary tickets for a 
 ## Results
 
 | **Column** | **Definition** |
-| --- | --- |
 | **Category** | Category the event is listed within. |
 | **Date Requested** | Date and Time the cop tickets were requested. |
 | **Event** | Name of Event. |
